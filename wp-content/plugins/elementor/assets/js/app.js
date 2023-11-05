@@ -52,9 +52,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/box.scss":
+/***/ "../app/assets/js/atoms/box.scss":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/atoms/box.scss ***!
+  !*** ../app/assets/js/atoms/box.scss ***!
   \******************************************/
 /***/ (() => {
 
@@ -62,9 +62,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/checkbox.scss":
+/***/ "../app/assets/js/atoms/checkbox.scss":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/atoms/checkbox.scss ***!
+  !*** ../app/assets/js/atoms/checkbox.scss ***!
   \***********************************************/
 /***/ (() => {
 
@@ -72,9 +72,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/drag-drop.scss":
+/***/ "../app/assets/js/atoms/drag-drop.scss":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/atoms/drag-drop.scss ***!
+  !*** ../app/assets/js/atoms/drag-drop.scss ***!
   \************************************************/
 /***/ (() => {
 
@@ -82,9 +82,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/text-field.scss":
+/***/ "../app/assets/js/atoms/text-field.scss":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/atoms/text-field.scss ***!
+  !*** ../app/assets/js/atoms/text-field.scss ***!
   \*************************************************/
 /***/ (() => {
 
@@ -92,9 +92,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card.scss":
+/***/ "../app/assets/js/card/card.scss":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/card/card.scss ***!
+  !*** ../app/assets/js/card/card.scss ***!
   \******************************************/
 /***/ (() => {
 
@@ -102,9 +102,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog.scss":
+/***/ "../app/assets/js/dialog/dialog.scss":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog.scss ***!
+  !*** ../app/assets/js/dialog/dialog.scss ***!
   \**********************************************/
 /***/ (() => {
 
@@ -112,9 +112,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/grid/grid.scss":
+/***/ "../app/assets/js/grid/grid.scss":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/grid/grid.scss ***!
+  !*** ../app/assets/js/grid/grid.scss ***!
   \******************************************/
 /***/ (() => {
 
@@ -122,9 +122,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal.scss":
+/***/ "../app/assets/js/modal/modal.scss":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/modal/modal.scss ***!
+  !*** ../app/assets/js/modal/modal.scss ***!
   \********************************************/
 /***/ (() => {
 
@@ -132,9 +132,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/inline-link.scss":
+/***/ "../app/assets/js/molecules/inline-link.scss":
 /*!******************************************************!*\
-  !*** ../app/assets/js/ui/molecules/inline-link.scss ***!
+  !*** ../app/assets/js/molecules/inline-link.scss ***!
   \******************************************************/
 /***/ (() => {
 
@@ -142,9 +142,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/list.scss":
+/***/ "../app/assets/js/molecules/list.scss":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/molecules/list.scss ***!
+  !*** ../app/assets/js/molecules/list.scss ***!
   \***********************************************/
 /***/ (() => {
 
@@ -152,9 +152,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/notice.scss":
+/***/ "../app/assets/js/molecules/notice.scss":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/molecules/notice.scss ***!
+  !*** ../app/assets/js/molecules/notice.scss ***!
   \*************************************************/
 /***/ (() => {
 
@@ -162,9 +162,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/select2.scss":
+/***/ "../app/assets/js/molecules/select2.scss":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/molecules/select2.scss ***!
+  !*** ../app/assets/js/molecules/select2.scss ***!
   \**************************************************/
 /***/ (() => {
 
@@ -172,9 +172,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/panel/panel.scss":
+/***/ "../app/assets/js/panel/panel.scss":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/panel/panel.scss ***!
+  !*** ../app/assets/js/panel/panel.scss ***!
   \********************************************/
 /***/ (() => {
 
@@ -182,9 +182,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table.scss":
+/***/ "../app/assets/js/table/table.scss":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/table/table.scss ***!
+  !*** ../app/assets/js/table/table.scss ***!
   \********************************************/
 /***/ (() => {
 
@@ -362,9 +362,9 @@
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/loader/loader.scss":
+/***/ "../app/modules/import-export/assets/js/loader/loader.scss":
 /*!********************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/loader/loader.scss ***!
+  !*** ../app/modules/import-export/assets/js/loader/loader.scss ***!
   \********************************************************************/
 /***/ (() => {
 
@@ -372,9 +372,9 @@
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/message-banner/message-banner.scss":
+/***/ "../app/modules/import-export/assets/js/message-banner/message-banner.scss":
 /*!************************************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/message-banner/message-banner.scss ***!
+  !*** ../app/modules/import-export/assets/js/message-banner/message-banner.scss ***!
   \************************************************************************************/
 /***/ (() => {
 
@@ -382,9 +382,9 @@
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/page-header/page-header.scss":
+/***/ "../app/modules/import-export/assets/js/page-header/page-header.scss":
 /*!******************************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/page-header/page-header.scss ***!
+  !*** ../app/modules/import-export/assets/js/page-header/page-header.scss ***!
   \******************************************************************************/
 /***/ (() => {
 
@@ -392,9 +392,9 @@
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.scss":
+/***/ "../app/modules/import-export/assets/js/wizard-step/wizard-step.scss":
 /*!******************************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.scss ***!
+  !*** ../app/modules/import-export/assets/js/wizard-step/wizard-step.scss ***!
   \******************************************************************************/
 /***/ (() => {
 
@@ -2826,7 +2826,7 @@ var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/h
 var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! ../ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! ../ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 var Button = /*#__PURE__*/function (_BaseButton) {
@@ -2935,7 +2935,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Header;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! ../ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! ../ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 var _headerButtons = _interopRequireDefault(__webpack_require__(/*! ./header-buttons */ "../app/assets/js/layout/header-buttons.js"));
 var _usePageTitle = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-page-title */ "../app/assets/js/hooks/use-page-title.js"));
 function Header(props) {
@@ -3268,7 +3268,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = DashboardButton;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _useAction = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-action */ "../app/assets/js/hooks/use-action.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 function DashboardButton(props) {
@@ -3311,7 +3311,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = DataTable;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! ../utils/utils */ "../app/assets/js/utils/utils.js");
-var _table = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/table/table */ "../app/assets/js/ui/table/table.js"));
+var _table = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/table/table */ "../app/assets/js/table/table.js"));
 function DataTable(_ref) {
   var className = _ref.className,
     onSelect = _ref.onSelect,
@@ -3393,7 +3393,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = GoProButton;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 function GoProButton(props) {
   var baseClassName = 'e-app-go-pro-button',
@@ -3557,7 +3557,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = UploadFile;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 __webpack_require__(/*! ./upload-file.scss */ "../app/assets/js/molecules/upload-file.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -3677,10 +3677,10 @@ var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 var _uploadFile = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/upload-file */ "../app/assets/js/molecules/upload-file.js"));
-var _dragDrop = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/drag-drop */ "../app/assets/js/ui/atoms/drag-drop.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _dragDrop = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/drag-drop */ "../app/assets/js/atoms/drag-drop.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 __webpack_require__(/*! ./drop-zone.scss */ "../app/assets/js/organisms/drop-zone.scss");
 function DropZone(props) {
   var classes = ['e-app-drop-zone', props.className],
@@ -3790,7 +3790,7 @@ var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/h
 var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 // In the current time there is no solution to use "getDerivedStateFromError" static method with functional component
@@ -3879,7 +3879,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = UnfilteredFilesDialog;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 var _useAjax2 = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-ajax */ "../app/assets/js/hooks/use-ajax.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
@@ -4004,7 +4004,7 @@ exports["default"] = WizardFooter;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 __webpack_require__(/*! ./wizard-footer.scss */ "../app/assets/js/organisms/wizard-footer.scss");
 function WizardFooter(props) {
   var baseClassName = 'e-app-wizard-footer',
@@ -4090,9 +4090,9 @@ function NotFound() {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/box.js":
+/***/ "../app/assets/js/atoms/box.js":
 /*!****************************************!*\
-  !*** ../app/assets/js/ui/atoms/box.js ***!
+  !*** ../app/assets/js/atoms/box.js ***!
   \****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4107,7 +4107,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Box;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./box.scss */ "../app/assets/js/ui/atoms/box.scss");
+__webpack_require__(/*! ./box.scss */ "../app/assets/js/atoms/box.scss");
 function Box(props) {
   var baseClassName = 'eps-box',
     classes = [baseClassName, props.className],
@@ -4132,9 +4132,9 @@ Box.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/checkbox.js":
+/***/ "../app/assets/js/atoms/checkbox.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/atoms/checkbox.js ***!
+  !*** ../app/assets/js/atoms/checkbox.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4149,7 +4149,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Checkbox;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./checkbox.scss */ "../app/assets/js/ui/atoms/checkbox.scss");
+__webpack_require__(/*! ./checkbox.scss */ "../app/assets/js/atoms/checkbox.scss");
 function Checkbox(_ref) {
   var className = _ref.className,
     checked = _ref.checked,
@@ -4200,9 +4200,9 @@ Checkbox.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/drag-drop.js":
+/***/ "../app/assets/js/atoms/drag-drop.js":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/atoms/drag-drop.js ***!
+  !*** ../app/assets/js/atoms/drag-drop.js ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4220,7 +4220,7 @@ var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
 var _utils = __webpack_require__(/*! ../../utils/utils */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./drag-drop.scss */ "../app/assets/js/ui/atoms/drag-drop.scss");
+__webpack_require__(/*! ./drag-drop.scss */ "../app/assets/js/atoms/drag-drop.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function DragDrop(props) {
@@ -4281,9 +4281,9 @@ DragDrop.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/heading.js":
+/***/ "../app/assets/js/atoms/heading.js":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/atoms/heading.js ***!
+  !*** ../app/assets/js/atoms/heading.js ***!
   \********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4324,9 +4324,9 @@ Heading.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/icon.js":
+/***/ "../app/assets/js/atoms/icon.js":
 /*!*****************************************!*\
-  !*** ../app/assets/js/ui/atoms/icon.js ***!
+  !*** ../app/assets/js/atoms/icon.js ***!
   \*****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4354,9 +4354,9 @@ Icon.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/select.js":
+/***/ "../app/assets/js/atoms/select.js":
 /*!*******************************************!*\
-  !*** ../app/assets/js/ui/atoms/select.js ***!
+  !*** ../app/assets/js/atoms/select.js ***!
   \*******************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4412,9 +4412,9 @@ Select.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/text-field.js":
+/***/ "../app/assets/js/atoms/text-field.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/atoms/text-field.js ***!
+  !*** ../app/assets/js/atoms/text-field.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4431,7 +4431,7 @@ var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _utils = __webpack_require__(/*! ../../utils/utils */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./text-field.scss */ "../app/assets/js/ui/atoms/text-field.scss");
+__webpack_require__(/*! ./text-field.scss */ "../app/assets/js/atoms/text-field.scss");
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function TextField(props) {
@@ -4461,9 +4461,9 @@ TextField.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/text.js":
+/***/ "../app/assets/js/atoms/text.js":
 /*!*****************************************!*\
-  !*** ../app/assets/js/ui/atoms/text.js ***!
+  !*** ../app/assets/js/atoms/text.js ***!
   \*****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4503,9 +4503,9 @@ Text.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-body.js":
+/***/ "../app/assets/js/card/card-body.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/card/card-body.js ***!
+  !*** ../app/assets/js/card/card-body.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4520,7 +4520,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardBody;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardBody(props) {
   var classNameBase = 'eps-card__body',
     classes = [classNameBase, props.className],
@@ -4547,9 +4547,9 @@ CardBody.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-divider.js":
+/***/ "../app/assets/js/card/card-divider.js":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/card/card-divider.js ***!
+  !*** ../app/assets/js/card/card-divider.js ***!
   \************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4564,7 +4564,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardDivider;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardDivider(props) {
   var classNameBase = 'eps-card__divider',
     classes = [classNameBase, props.className];
@@ -4581,9 +4581,9 @@ CardDivider.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-footer.js":
+/***/ "../app/assets/js/card/card-footer.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/card/card-footer.js ***!
+  !*** ../app/assets/js/card/card-footer.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4598,7 +4598,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardFooter;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardFooter(props) {
   var classNameBase = 'eps-card__footer',
     classes = [classNameBase, props.className],
@@ -4625,9 +4625,9 @@ CardFooter.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-header.js":
+/***/ "../app/assets/js/card/card-header.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/card/card-header.js ***!
+  !*** ../app/assets/js/card/card-header.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4642,7 +4642,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardHeader;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardHeader(props) {
   var classNameBase = 'eps-card__header',
     classes = [classNameBase, props.className],
@@ -4669,9 +4669,9 @@ CardHeader.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-headline.js":
+/***/ "../app/assets/js/card/card-headline.js":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/card/card-headline.js ***!
+  !*** ../app/assets/js/card/card-headline.js ***!
   \*************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4686,7 +4686,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardHeadline;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardHeadline(props) {
   var classNameBase = 'eps-card__headline',
     classes = [classNameBase, props.className];
@@ -4704,9 +4704,9 @@ CardHeadline.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-image.js":
+/***/ "../app/assets/js/card/card-image.js":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/card/card-image.js ***!
+  !*** ../app/assets/js/card/card-image.js ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4720,7 +4720,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = CardImage;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardImage(props) {
   var image = /*#__PURE__*/_react.default.createElement("img", {
     src: props.src,
@@ -4744,9 +4744,9 @@ CardImage.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-overlay.js":
+/***/ "../app/assets/js/card/card-overlay.js":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/card/card-overlay.js ***!
+  !*** ../app/assets/js/card/card-overlay.js ***!
   \************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4760,7 +4760,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = CardOverlay;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardOverlay(props) {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "eps-card__image-overlay ".concat(props.className)
@@ -4776,9 +4776,9 @@ CardOverlay.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card.js":
+/***/ "../app/assets/js/card/card.js":
 /*!****************************************!*\
-  !*** ../app/assets/js/ui/card/card.js ***!
+  !*** ../app/assets/js/card/card.js ***!
   \****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4792,14 +4792,14 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = void 0;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _cardHeader = _interopRequireDefault(__webpack_require__(/*! ./card-header */ "../app/assets/js/ui/card/card-header.js"));
-var _cardBody = _interopRequireDefault(__webpack_require__(/*! ./card-body */ "../app/assets/js/ui/card/card-body.js"));
-var _cardImage = _interopRequireDefault(__webpack_require__(/*! ./card-image */ "../app/assets/js/ui/card/card-image.js"));
-var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! ./card-overlay */ "../app/assets/js/ui/card/card-overlay.js"));
-var _cardFooter = _interopRequireDefault(__webpack_require__(/*! ./card-footer */ "../app/assets/js/ui/card/card-footer.js"));
-var _cardHeadline = _interopRequireDefault(__webpack_require__(/*! ./card-headline */ "../app/assets/js/ui/card/card-headline.js"));
-var _cardDivider = _interopRequireDefault(__webpack_require__(/*! ./card-divider */ "../app/assets/js/ui/card/card-divider.js"));
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+var _cardHeader = _interopRequireDefault(__webpack_require__(/*! ./card-header */ "../app/assets/js/card/card-header.js"));
+var _cardBody = _interopRequireDefault(__webpack_require__(/*! ./card-body */ "../app/assets/js/card/card-body.js"));
+var _cardImage = _interopRequireDefault(__webpack_require__(/*! ./card-image */ "../app/assets/js/card/card-image.js"));
+var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! ./card-overlay */ "../app/assets/js/card/card-overlay.js"));
+var _cardFooter = _interopRequireDefault(__webpack_require__(/*! ./card-footer */ "../app/assets/js/card/card-footer.js"));
+var _cardHeadline = _interopRequireDefault(__webpack_require__(/*! ./card-headline */ "../app/assets/js/card/card-headline.js"));
+var _cardDivider = _interopRequireDefault(__webpack_require__(/*! ./card-divider */ "../app/assets/js/card/card-divider.js"));
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 var Card = _react.default.forwardRef(function (props, ref) {
   return /*#__PURE__*/_react.default.createElement("article", {
     className: "eps-card ".concat(props.className),
@@ -4827,9 +4827,9 @@ exports["default"] = _default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-actions.js":
+/***/ "../app/assets/js/dialog/dialog-actions.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-actions.js ***!
+  !*** ../app/assets/js/dialog/dialog-actions.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4854,9 +4854,9 @@ DialogActions.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-button.js":
+/***/ "../app/assets/js/dialog/dialog-button.js":
 /*!***************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-button.js ***!
+  !*** ../app/assets/js/dialog/dialog-button.js ***!
   \***************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4872,7 +4872,7 @@ exports["default"] = DialogButton;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function DialogButton(props) {
@@ -4891,9 +4891,9 @@ DialogButton.defaultProps = _objectSpread(_objectSpread({}, _button.default.defa
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-content.js":
+/***/ "../app/assets/js/dialog/dialog-content.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-content.js ***!
+  !*** ../app/assets/js/dialog/dialog-content.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4918,9 +4918,9 @@ DialogContent.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-text.js":
+/***/ "../app/assets/js/dialog/dialog-text.js":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-text.js ***!
+  !*** ../app/assets/js/dialog/dialog-text.js ***!
   \*************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4935,7 +4935,7 @@ exports["default"] = DialogText;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function DialogText(props) {
@@ -4953,9 +4953,9 @@ DialogText.defaultProps = _objectSpread(_objectSpread({}, _text.default.defaultP
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-title.js":
+/***/ "../app/assets/js/dialog/dialog-title.js":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-title.js ***!
+  !*** ../app/assets/js/dialog/dialog-title.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4971,7 +4971,7 @@ exports["default"] = DialogTitle;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function DialogTitle(props) {
@@ -4990,9 +4990,9 @@ DialogTitle.defaultProps = _objectSpread(_objectSpread({}, _heading.default.prop
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-wrapper.js":
+/***/ "../app/assets/js/dialog/dialog-wrapper.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-wrapper.js ***!
+  !*** ../app/assets/js/dialog/dialog-wrapper.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5007,7 +5007,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = DialogWrapper;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function DialogWrapper(props) {
   var WrapperTag = 'div';
   if (props.onSubmit) {
@@ -5034,9 +5034,9 @@ DialogWrapper.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog.js":
+/***/ "../app/assets/js/dialog/dialog.js":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog.js ***!
+  !*** ../app/assets/js/dialog/dialog.js ***!
   \********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5050,13 +5050,13 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = Dialog;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _dialogWrapper = _interopRequireDefault(__webpack_require__(/*! ./dialog-wrapper */ "../app/assets/js/ui/dialog/dialog-wrapper.js"));
-var _dialogContent = _interopRequireDefault(__webpack_require__(/*! ./dialog-content */ "../app/assets/js/ui/dialog/dialog-content.js"));
-var _dialogTitle = _interopRequireDefault(__webpack_require__(/*! ./dialog-title */ "../app/assets/js/ui/dialog/dialog-title.js"));
-var _dialogText = _interopRequireDefault(__webpack_require__(/*! ./dialog-text */ "../app/assets/js/ui/dialog/dialog-text.js"));
-var _dialogActions = _interopRequireDefault(__webpack_require__(/*! ./dialog-actions */ "../app/assets/js/ui/dialog/dialog-actions.js"));
-var _dialogButton = _interopRequireDefault(__webpack_require__(/*! ./dialog-button */ "../app/assets/js/ui/dialog/dialog-button.js"));
-__webpack_require__(/*! ./dialog.scss */ "../app/assets/js/ui/dialog/dialog.scss");
+var _dialogWrapper = _interopRequireDefault(__webpack_require__(/*! ./dialog-wrapper */ "../app/assets/js/dialog/dialog-wrapper.js"));
+var _dialogContent = _interopRequireDefault(__webpack_require__(/*! ./dialog-content */ "../app/assets/js/dialog/dialog-content.js"));
+var _dialogTitle = _interopRequireDefault(__webpack_require__(/*! ./dialog-title */ "../app/assets/js/dialog/dialog-title.js"));
+var _dialogText = _interopRequireDefault(__webpack_require__(/*! ./dialog-text */ "../app/assets/js/dialog/dialog-text.js"));
+var _dialogActions = _interopRequireDefault(__webpack_require__(/*! ./dialog-actions */ "../app/assets/js/dialog/dialog-actions.js"));
+var _dialogButton = _interopRequireDefault(__webpack_require__(/*! ./dialog-button */ "../app/assets/js/dialog/dialog-button.js"));
+__webpack_require__(/*! ./dialog.scss */ "../app/assets/js/dialog/dialog.scss");
 function Dialog(props) {
   return /*#__PURE__*/_react.default.createElement(_dialogWrapper.default, {
     onSubmit: props.onSubmit,
@@ -5110,9 +5110,9 @@ Dialog.Button = _dialogButton.default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/grid/grid.js":
+/***/ "../app/assets/js/grid/grid.js":
 /*!****************************************!*\
-  !*** ../app/assets/js/ui/grid/grid.js ***!
+  !*** ../app/assets/js/grid/grid.js ***!
   \****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5128,7 +5128,7 @@ exports["default"] = Grid;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _toConsumableArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/toConsumableArray */ "../node_modules/@babel/runtime/helpers/toConsumableArray.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./grid.scss */ "../app/assets/js/ui/grid/grid.scss");
+__webpack_require__(/*! ./grid.scss */ "../app/assets/js/grid/grid.scss");
 function Grid(props) {
   var propsMap = {
       direction: '--direction{{ -VALUE }}',
@@ -5209,9 +5209,9 @@ Grid.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal-section.js":
+/***/ "../app/assets/js/modal/modal-section.js":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/modal/modal-section.js ***!
+  !*** ../app/assets/js/modal/modal-section.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5241,9 +5241,9 @@ ModalSection.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal-tip.js":
+/***/ "../app/assets/js/modal/modal-tip.js":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/modal/modal-tip.js ***!
+  !*** ../app/assets/js/modal/modal-tip.js ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5259,8 +5259,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ModalTip;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! ../../utils/utils */ "../app/assets/js/utils/utils.js");
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 function ModalTip(props) {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: (0, _utils.arrayToClassName)(['eps-modal__tip', props.className])
@@ -5283,9 +5283,9 @@ ModalTip.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal.js":
+/***/ "../app/assets/js/modal/modal.js":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/modal/modal.js ***!
+  !*** ../app/assets/js/modal/modal.js ***!
   \******************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5306,13 +5306,13 @@ var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/he
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _modalSection = _interopRequireDefault(__webpack_require__(/*! ./modal-section */ "../app/assets/js/ui/modal/modal-section.js"));
-var _modalTip = _interopRequireDefault(__webpack_require__(/*! ./modal-tip */ "../app/assets/js/ui/modal/modal-tip.js"));
-__webpack_require__(/*! ./modal.scss */ "../app/assets/js/ui/modal/modal.scss");
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _modalSection = _interopRequireDefault(__webpack_require__(/*! ./modal-section */ "../app/assets/js/modal/modal-section.js"));
+var _modalTip = _interopRequireDefault(__webpack_require__(/*! ./modal-tip */ "../app/assets/js/modal/modal-tip.js"));
+__webpack_require__(/*! ./modal.scss */ "../app/assets/js/modal/modal.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
@@ -5452,9 +5452,9 @@ Modal.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/button.js":
+/***/ "../app/assets/js/molecules/button.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/molecules/button.js ***!
+  !*** ../app/assets/js/molecules/button.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5477,7 +5477,7 @@ var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/run
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
 var _router2 = _interopRequireDefault(__webpack_require__(/*! @elementor/router */ "@elementor/router"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 var Button = /*#__PURE__*/function (_React$Component) {
@@ -5618,9 +5618,9 @@ exports["default"] = Button;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/inline-link.js":
+/***/ "../app/assets/js/molecules/inline-link.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/molecules/inline-link.js ***!
+  !*** ../app/assets/js/molecules/inline-link.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5637,7 +5637,7 @@ var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
 var _router2 = _interopRequireDefault(__webpack_require__(/*! @elementor/router */ "@elementor/router"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./inline-link.scss */ "../app/assets/js/ui/molecules/inline-link.scss");
+__webpack_require__(/*! ./inline-link.scss */ "../app/assets/js/molecules/inline-link.scss");
 function InlineLink(props) {
   var baseClassName = 'eps-inline-link',
     colorClassName = "".concat(baseClassName, "--color-").concat(props.color),
@@ -5695,9 +5695,9 @@ InlineLink.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/list-item.js":
+/***/ "../app/assets/js/molecules/list-item.js":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/molecules/list-item.js ***!
+  !*** ../app/assets/js/molecules/list-item.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5738,9 +5738,9 @@ ListItem.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/list.js":
+/***/ "../app/assets/js/molecules/list.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/molecules/list.js ***!
+  !*** ../app/assets/js/molecules/list.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5755,8 +5755,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = List;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _listItem = _interopRequireDefault(__webpack_require__(/*! ./list-item */ "../app/assets/js/ui/molecules/list-item.js"));
-__webpack_require__(/*! ./list.scss */ "../app/assets/js/ui/molecules/list.scss");
+var _listItem = _interopRequireDefault(__webpack_require__(/*! ./list-item */ "../app/assets/js/molecules/list-item.js"));
+__webpack_require__(/*! ./list.scss */ "../app/assets/js/molecules/list.scss");
 function List(props) {
   var baseClassName = 'eps-list',
     classes = [baseClassName, props.className];
@@ -5789,9 +5789,9 @@ List.Item = _listItem.default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/notice.js":
+/***/ "../app/assets/js/molecules/notice.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/molecules/notice.js ***!
+  !*** ../app/assets/js/molecules/notice.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5806,10 +5806,10 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Notice;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-__webpack_require__(/*! ./notice.scss */ "../app/assets/js/ui/molecules/notice.scss");
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+__webpack_require__(/*! ./notice.scss */ "../app/assets/js/molecules/notice.scss");
 var iconsClassesMap = {
   danger: 'eicon-warning',
   info: 'eicon-info-circle-o',
@@ -5861,9 +5861,9 @@ Notice.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/select2.js":
+/***/ "../app/assets/js/molecules/select2.js":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/molecules/select2.js ***!
+  !*** ../app/assets/js/molecules/select2.js ***!
   \************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5878,8 +5878,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Select2;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
-var _select = _interopRequireDefault(__webpack_require__(/*! ../atoms/select */ "../app/assets/js/ui/atoms/select.js"));
-__webpack_require__(/*! ./select2.scss */ "../app/assets/js/ui/molecules/select2.scss");
+var _select = _interopRequireDefault(__webpack_require__(/*! ../atoms/select */ "../app/assets/js/atoms/select.js"));
+__webpack_require__(/*! ./select2.scss */ "../app/assets/js/molecules/select2.scss");
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 /**
@@ -5950,9 +5950,9 @@ Select2.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/panel/panel-body.js":
+/***/ "../app/assets/js/panel/panel-body.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/panel/panel-body.js ***!
+  !*** ../app/assets/js/panel/panel-body.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5967,7 +5967,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = PanelBody;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/ui/card/card.js"));
+var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/card/card.js"));
 var _collapse = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/collapse */ "../app/assets/js/molecules/collapse.js"));
 function PanelBody(props) {
   return /*#__PURE__*/_react.default.createElement(_collapse.default.Content, null, /*#__PURE__*/_react.default.createElement(_card.default.Body, {
@@ -5987,9 +5987,9 @@ PanelBody.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/panel/panel-header.js":
+/***/ "../app/assets/js/panel/panel-header.js":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/panel/panel-header.js ***!
+  !*** ../app/assets/js/panel/panel-header.js ***!
   \*************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6004,7 +6004,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = PanelHeader;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/ui/card/card.js"));
+var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/card/card.js"));
 var _collapse = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/collapse */ "../app/assets/js/molecules/collapse.js"));
 function PanelHeader(props) {
   return /*#__PURE__*/_react.default.createElement(_collapse.default.Toggle, {
@@ -6031,9 +6031,9 @@ PanelHeader.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/panel/panel-headline.js":
+/***/ "../app/assets/js/panel/panel-headline.js":
 /*!***************************************************!*\
-  !*** ../app/assets/js/ui/panel/panel-headline.js ***!
+  !*** ../app/assets/js/panel/panel-headline.js ***!
   \***************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6048,7 +6048,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = PanelHeadline;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/ui/card/card.js"));
+var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/card/card.js"));
 function PanelHeadline(props) {
   return /*#__PURE__*/_react.default.createElement(_card.default.Headline, {
     className: (0, _utils.arrayToClassName)(['eps-panel__headline', props.className])
@@ -6064,9 +6064,9 @@ PanelHeadline.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/panel/panel.js":
+/***/ "../app/assets/js/panel/panel.js":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/panel/panel.js ***!
+  !*** ../app/assets/js/panel/panel.js ***!
   \******************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6081,12 +6081,12 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Panel;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/ui/card/card.js"));
+var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/card/card.js"));
 var _collapse = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/collapse */ "../app/assets/js/molecules/collapse.js"));
-var _panelHeader = _interopRequireDefault(__webpack_require__(/*! ./panel-header */ "../app/assets/js/ui/panel/panel-header.js"));
-var _panelHeadline = _interopRequireDefault(__webpack_require__(/*! ./panel-headline */ "../app/assets/js/ui/panel/panel-headline.js"));
-var _panelBody = _interopRequireDefault(__webpack_require__(/*! ./panel-body */ "../app/assets/js/ui/panel/panel-body.js"));
-__webpack_require__(/*! ./panel.scss */ "../app/assets/js/ui/panel/panel.scss");
+var _panelHeader = _interopRequireDefault(__webpack_require__(/*! ./panel-header */ "../app/assets/js/panel/panel-header.js"));
+var _panelHeadline = _interopRequireDefault(__webpack_require__(/*! ./panel-headline */ "../app/assets/js/panel/panel-headline.js"));
+var _panelBody = _interopRequireDefault(__webpack_require__(/*! ./panel-body */ "../app/assets/js/panel/panel-body.js"));
+__webpack_require__(/*! ./panel.scss */ "../app/assets/js/panel/panel.scss");
 function Panel(props) {
   return /*#__PURE__*/_react.default.createElement(_collapse.default, {
     isOpened: props.isOpened
@@ -6109,9 +6109,9 @@ Panel.Body = _panelBody.default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table-body.js":
+/***/ "../app/assets/js/table/table-body.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/table/table-body.js ***!
+  !*** ../app/assets/js/table/table-body.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6138,9 +6138,9 @@ TableBody.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table-cell.js":
+/***/ "../app/assets/js/table/table-cell.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/table/table-cell.js ***!
+  !*** ../app/assets/js/table/table-cell.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6173,9 +6173,9 @@ TableCell.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table-checkbox.js":
+/***/ "../app/assets/js/table/table-checkbox.js":
 /*!***************************************************!*\
-  !*** ../app/assets/js/ui/table/table-checkbox.js ***!
+  !*** ../app/assets/js/table/table-checkbox.js ***!
   \***************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6191,9 +6191,9 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = TableCheckbox;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _toConsumableArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/toConsumableArray */ "../node_modules/@babel/runtime/helpers/toConsumableArray.js"));
-var _tableContext = __webpack_require__(/*! ./table-context */ "../app/assets/js/ui/table/table-context.js");
+var _tableContext = __webpack_require__(/*! ./table-context */ "../app/assets/js/table/table-context.js");
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/ui/atoms/checkbox.js"));
+var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/atoms/checkbox.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function TableCheckbox(props) {
@@ -6250,9 +6250,9 @@ TableCheckbox.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table-context.js":
+/***/ "../app/assets/js/table/table-context.js":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/table/table-context.js ***!
+  !*** ../app/assets/js/table/table-context.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6270,9 +6270,9 @@ exports.Context = Context;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table-row.js":
+/***/ "../app/assets/js/table/table-row.js":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/table/table-row.js ***!
+  !*** ../app/assets/js/table/table-row.js ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6299,9 +6299,9 @@ TableRow.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table.head.js":
+/***/ "../app/assets/js/table/table.head.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/table/table.head.js ***!
+  !*** ../app/assets/js/table/table.head.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6328,9 +6328,9 @@ TableHead.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/table/table.js":
+/***/ "../app/assets/js/table/table.js":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/table/table.js ***!
+  !*** ../app/assets/js/table/table.js ***!
   \******************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -6347,14 +6347,14 @@ exports["default"] = Table;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
-var _tableContext = __webpack_require__(/*! ./table-context */ "../app/assets/js/ui/table/table-context.js");
+var _tableContext = __webpack_require__(/*! ./table-context */ "../app/assets/js/table/table-context.js");
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _table = _interopRequireDefault(__webpack_require__(/*! ./table.head */ "../app/assets/js/ui/table/table.head.js"));
-var _tableBody = _interopRequireDefault(__webpack_require__(/*! ./table-body */ "../app/assets/js/ui/table/table-body.js"));
-var _tableRow = _interopRequireDefault(__webpack_require__(/*! ./table-row */ "../app/assets/js/ui/table/table-row.js"));
-var _tableCell = _interopRequireDefault(__webpack_require__(/*! ./table-cell */ "../app/assets/js/ui/table/table-cell.js"));
-var _tableCheckbox = _interopRequireDefault(__webpack_require__(/*! ./table-checkbox */ "../app/assets/js/ui/table/table-checkbox.js"));
-__webpack_require__(/*! ./table.scss */ "../app/assets/js/ui/table/table.scss");
+var _table = _interopRequireDefault(__webpack_require__(/*! ./table.head */ "../app/assets/js/table/table.head.js"));
+var _tableBody = _interopRequireDefault(__webpack_require__(/*! ./table-body */ "../app/assets/js/table/table-body.js"));
+var _tableRow = _interopRequireDefault(__webpack_require__(/*! ./table-row */ "../app/assets/js/table/table-row.js"));
+var _tableCell = _interopRequireDefault(__webpack_require__(/*! ./table-cell */ "../app/assets/js/table/table-cell.js"));
+var _tableCheckbox = _interopRequireDefault(__webpack_require__(/*! ./table-checkbox */ "../app/assets/js/table/table-checkbox.js"));
+__webpack_require__(/*! ./table.scss */ "../app/assets/js/table/table.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function Table(_ref) {
@@ -7543,9 +7543,9 @@ var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/r
 var _exportContextProvider = __webpack_require__(/*! ../../../context/export-context/export-context-provider */ "../app/modules/import-export/assets/js/context/export-context/export-context-provider.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
 var _actionsFooter = _interopRequireDefault(__webpack_require__(/*! ../../../shared/actions-footer/actions-footer */ "../app/modules/import-export/assets/js/shared/actions-footer/actions-footer.js"));
-var _wizardStep = _interopRequireDefault(__webpack_require__(/*! ../../../ui/wizard-step/wizard-step */ "../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.js"));
+var _wizardStep = _interopRequireDefault(__webpack_require__(/*! ../../../ui/wizard-step/wizard-step */ "../app/modules/import-export/assets/js/wizard-step/wizard-step.js"));
 var _kitData = _interopRequireDefault(__webpack_require__(/*! ../../../shared/kit-data/kit-data */ "../app/modules/import-export/assets/js/shared/kit-data/kit-data.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _dashboardButton = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/dashboard-button */ "../app/assets/js/molecules/dashboard-button.js"));
 __webpack_require__(/*! ./export-complete.scss */ "../app/modules/import-export/assets/js/pages/export/export-complete/export-complete.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -7615,7 +7615,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = KitDescription;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _exportContextProvider = __webpack_require__(/*! ../../../../../../../context/export-context/export-context-provider */ "../app/modules/import-export/assets/js/context/export-context/export-context-provider.js");
-var _textField = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text-field */ "../app/assets/js/ui/atoms/text-field.js"));
+var _textField = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text-field */ "../app/assets/js/atoms/text-field.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function KitDescription() {
@@ -7655,9 +7655,9 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = KitInfoModal;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/ui/modal/modal.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/modal/modal.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 function KitInfoModal(props) {
   return /*#__PURE__*/_react.default.createElement(_modal.default, (0, _extends2.default)({}, props, {
     className: "e-app-export-kit-info-modal",
@@ -7689,7 +7689,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = KitName;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _exportContextProvider = __webpack_require__(/*! ../../../../../../../context/export-context/export-context-provider */ "../app/modules/import-export/assets/js/context/export-context/export-context-provider.js");
-var _textField = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text-field */ "../app/assets/js/ui/atoms/text-field.js"));
+var _textField = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text-field */ "../app/assets/js/atoms/text-field.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function KitName() {
@@ -7729,10 +7729,10 @@ var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runt
 var _kitName = _interopRequireDefault(__webpack_require__(/*! ./components/kit-name/kit-name */ "../app/modules/import-export/assets/js/pages/export/export-kit/components/kit-information/components/kit-name/kit-name.js"));
 var _kitDescription = _interopRequireDefault(__webpack_require__(/*! ./components/kit-description/kit-description */ "../app/modules/import-export/assets/js/pages/export/export-kit/components/kit-information/components/kit-description/kit-description.js"));
 var _kitInfoModal = _interopRequireDefault(__webpack_require__(/*! ./components/kit-info-modal/kit-info-modal */ "../app/modules/import-export/assets/js/pages/export/export-kit/components/kit-information/components/kit-info-modal/kit-info-modal.js"));
-var _panel = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/panel/panel */ "../app/assets/js/ui/panel/panel.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _panel = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/panel/panel */ "../app/assets/js/panel/panel.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 var kitInfoTitle = __('Kit Information', 'elementor');
@@ -7816,12 +7816,12 @@ var _exportContextProvider = __webpack_require__(/*! ../../../context/export-con
 var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _cptObjectToOptionsArray = __webpack_require__(/*! ../../../shared/cpt-select-box/cpt-object-to-options-array */ "../app/modules/import-export/assets/js/shared/cpt-select-box/cpt-object-to-options-array.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
-var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/ui/page-header/page-header.js"));
+var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/page-header/page-header.js"));
 var _kitContent = _interopRequireDefault(__webpack_require__(/*! ../../../shared/kit-content/kit-content */ "../app/modules/import-export/assets/js/shared/kit-content/kit-content.js"));
 var _kitInformation = _interopRequireDefault(__webpack_require__(/*! ./components/kit-information/kit-information */ "../app/modules/import-export/assets/js/pages/export/export-kit/components/kit-information/kit-information.js"));
 var _actionsFooter = _interopRequireDefault(__webpack_require__(/*! ../../../shared/actions-footer/actions-footer */ "../app/modules/import-export/assets/js/shared/actions-footer/actions-footer.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _kitContentData = _interopRequireDefault(__webpack_require__(/*! ../../../shared/kit-content-data/kit-content-data */ "../app/modules/import-export/assets/js/shared/kit-content-data/kit-content-data.js"));
 __webpack_require__(/*! ./export-kit.scss */ "../app/modules/import-export/assets/js/pages/export/export-kit/export-kit.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -7889,7 +7889,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ExportPluginsFooter;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _actionsFooter = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/actions-footer/actions-footer */ "../app/modules/import-export/assets/js/shared/actions-footer/actions-footer.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function ExportPluginsFooter(_ref) {
   var isKitReady = _ref.isKitReady;
   return /*#__PURE__*/_react.default.createElement(_actionsFooter.default, null, /*#__PURE__*/_react.default.createElement(_button.default, {
@@ -7927,7 +7927,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = void 0;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _pluginsSelection = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/plugins-selection/plugins-selection */ "../app/modules/import-export/assets/js/shared/plugins-selection/plugins-selection.js"));
-var _loader = _interopRequireDefault(__webpack_require__(/*! ../../../../../ui/loader/loader */ "../app/modules/import-export/assets/js/ui/loader/loader.js"));
+var _loader = _interopRequireDefault(__webpack_require__(/*! ../../../../../ui/loader/loader */ "../app/modules/import-export/assets/js/loader/loader.js"));
 var _usePlugins2 = _interopRequireWildcard(__webpack_require__(/*! ../../../../../hooks/use-plugins */ "../app/modules/import-export/assets/js/hooks/use-plugins.js"));
 var _usePluginsData2 = _interopRequireWildcard(__webpack_require__(/*! ../../../../../hooks/use-plugins-data */ "../app/modules/import-export/assets/js/hooks/use-plugins-data.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -7999,7 +7999,7 @@ var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/r
 var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _exportContextProvider = __webpack_require__(/*! ../../../context/export-context/export-context-provider */ "../app/modules/import-export/assets/js/context/export-context/export-context-provider.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
-var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/ui/page-header/page-header.js"));
+var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/page-header/page-header.js"));
 var _exportPluginsSelection = _interopRequireDefault(__webpack_require__(/*! ./components/export-plugins-selection/export-plugins-selection */ "../app/modules/import-export/assets/js/pages/export/export-plugins/components/export-plugins-selection/export-plugins-selection.js"));
 var _exportPluginsFooter = _interopRequireDefault(__webpack_require__(/*! ./components/export-plugins-footer/export-plugins-footer */ "../app/modules/import-export/assets/js/pages/export/export-plugins/components/export-plugins-footer/export-plugins-footer.js"));
 __webpack_require__(/*! ./export-plugins.scss */ "../app/modules/import-export/assets/js/pages/export/export-plugins/export-plugins.scss");
@@ -8274,8 +8274,8 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = ConnectProNotice;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/ui/molecules/notice.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/molecules/notice.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 __webpack_require__(/*! ./connect-pro-notice.scss */ "../app/modules/import-export/assets/js/pages/import/import-complete/components/connect-pro-notice/connect-pro-notice.scss");
 function ConnectProNotice() {
   var getButton = function getButton() {
@@ -8315,8 +8315,8 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = FailedPluginsNotice;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/ui/molecules/notice.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/molecules/notice.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 __webpack_require__(/*! ./failed-plugins-notice.scss */ "../app/modules/import-export/assets/js/pages/import/import-complete/components/failed-plugins-notice/failed-plugins-notice.scss");
 function FailedPluginsNotice(_ref) {
   var failedPlugins = _ref.failedPlugins;
@@ -8364,7 +8364,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ImportCompleteFooter;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _actionsFooter = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/actions-footer/actions-footer */ "../app/modules/import-export/assets/js/shared/actions-footer/actions-footer.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _useAction = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-action */ "../app/assets/js/hooks/use-action.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 function ImportCompleteFooter(_ref) {
@@ -8490,9 +8490,9 @@ var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/r
 var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _importContextProvider = __webpack_require__(/*! ../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
-var _wizardStep = _interopRequireDefault(__webpack_require__(/*! ../../../ui/wizard-step/wizard-step */ "../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.js"));
+var _wizardStep = _interopRequireDefault(__webpack_require__(/*! ../../../ui/wizard-step/wizard-step */ "../app/modules/import-export/assets/js/wizard-step/wizard-step.js"));
 var _kitData = _interopRequireDefault(__webpack_require__(/*! ../../../shared/kit-data/kit-data */ "../app/modules/import-export/assets/js/shared/kit-data/kit-data.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _failedPluginsNotice = _interopRequireDefault(__webpack_require__(/*! ./components/failed-plugins-notice/failed-plugins-notice */ "../app/modules/import-export/assets/js/pages/import/import-complete/components/failed-plugins-notice/failed-plugins-notice.js"));
 var _connectProNotice = _interopRequireDefault(__webpack_require__(/*! ./components/connect-pro-notice/connect-pro-notice */ "../app/modules/import-export/assets/js/pages/import/import-complete/components/connect-pro-notice/connect-pro-notice.js"));
 var _importCompleteFooter = _interopRequireDefault(__webpack_require__(/*! ./components/import-complete-footer/import-complete-footer */ "../app/modules/import-export/assets/js/pages/import/import-complete/components/import-complete-footer/import-complete-footer.js"));
@@ -8610,8 +8610,8 @@ var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _kitContent = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/kit-content/kit-content */ "../app/modules/import-export/assets/js/shared/kit-content/kit-content.js"));
 var _sharedContextProvider = __webpack_require__(/*! ../../../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _kitContentData = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/kit-content-data/kit-content-data */ "../app/modules/import-export/assets/js/shared/kit-content-data/kit-content-data.js"));
-var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/ui/molecules/notice.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/molecules/notice.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _cptObjectToOptionsArray = __webpack_require__(/*! ../../../../../shared/cpt-select-box/cpt-object-to-options-array */ "../app/modules/import-export/assets/js/shared/cpt-select-box/cpt-object-to-options-array.js");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
@@ -8688,7 +8688,7 @@ exports["default"] = ImportContentFooter;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
 var _actionsFooter = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/actions-footer/actions-footer */ "../app/modules/import-export/assets/js/shared/actions-footer/actions-footer.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function ImportContentFooter(_ref) {
   var hasPlugins = _ref.hasPlugins,
     hasConflicts = _ref.hasConflicts,
@@ -8758,7 +8758,7 @@ var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-con
 var _importContextProvider = __webpack_require__(/*! ../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
-var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/ui/page-header/page-header.js"));
+var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/page-header/page-header.js"));
 var _importContentDisplay = _interopRequireDefault(__webpack_require__(/*! ./components/import-content-display/import-content-display */ "../app/modules/import-export/assets/js/pages/import/import-content/components/import-content-display/import-content-display.js"));
 var _importContentFooter = _interopRequireDefault(__webpack_require__(/*! ./components/import-content-footer/import-content-footer */ "../app/modules/import-export/assets/js/pages/import/import-content/components/import-content-footer/import-content-footer.js"));
 var _useImportActions2 = _interopRequireDefault(__webpack_require__(/*! ../hooks/use-import-actions */ "../app/modules/import-export/assets/js/pages/import/hooks/use-import-actions.js"));
@@ -8906,17 +8906,17 @@ var _hooks = __webpack_require__(/*! @elementor/hooks */ "@elementor/hooks");
 var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _importContextProvider = __webpack_require__(/*! ../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
-var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/ui/page-header/page-header.js"));
+var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/page-header/page-header.js"));
 var _processFailedDialog = _interopRequireDefault(__webpack_require__(/*! ../../../shared/process-failed-dialog/process-failed-dialog */ "../app/modules/import-export/assets/js/shared/process-failed-dialog/process-failed-dialog.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
-var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/ui/molecules/notice.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
+var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/molecules/notice.js"));
 var _dropZone = _interopRequireDefault(__webpack_require__(/*! elementor-app/organisms/drop-zone */ "../app/assets/js/organisms/drop-zone.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 var _useKit2 = _interopRequireDefault(__webpack_require__(/*! ../../../hooks/use-kit */ "../app/modules/import-export/assets/js/hooks/use-kit.js"));
 __webpack_require__(/*! ./import-kit.scss */ "../app/modules/import-export/assets/js/pages/import/import-kit/import-kit.scss");
-var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/ui/atoms/checkbox.js"));
+var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/atoms/checkbox.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function ImportKit() {
@@ -9126,9 +9126,9 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = PluginStatusItem;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/ui/atoms/checkbox.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/atoms/checkbox.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 var _usePlugins = __webpack_require__(/*! ../../../../../hooks/use-plugins */ "../app/modules/import-export/assets/js/hooks/use-plugins.js");
 var ACTIVE = _usePlugins.PLUGIN_STATUS_MAP.ACTIVE,
   INACTIVE = _usePlugins.PLUGIN_STATUS_MAP.INACTIVE,
@@ -9338,8 +9338,8 @@ var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-con
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
 var _fileProcess = _interopRequireDefault(__webpack_require__(/*! ../../../shared/file-process/file-process */ "../app/modules/import-export/assets/js/shared/file-process/file-process.js"));
 var _pluginStatusItem = _interopRequireDefault(__webpack_require__(/*! ./components/plugin-status-item/plugin-status-item */ "../app/modules/import-export/assets/js/pages/import/import-plugins-activation/components/plugin-status-item/plugin-status-item.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _list = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/list */ "../app/assets/js/ui/molecules/list.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _list = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/list */ "../app/assets/js/molecules/list.js"));
 __webpack_require__(/*! ./import-plugins-activation.scss */ "../app/modules/import-export/assets/js/pages/import/import-plugins-activation/import-plugins-activation.scss");
 var _useInstallPlugins2 = _interopRequireDefault(__webpack_require__(/*! ./hooks/use-install-plugins */ "../app/modules/import-export/assets/js/pages/import/import-plugins-activation/hooks/use-install-plugins.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -9430,7 +9430,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ExistingPlugins;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _pluginsSelection = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/plugins-selection/plugins-selection */ "../app/modules/import-export/assets/js/shared/plugins-selection/plugins-selection.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 var layout = [4, 1];
@@ -9492,7 +9492,7 @@ exports["default"] = ImportPluginsFooter;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _importContextProvider = __webpack_require__(/*! ../../../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _actionsFooter = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/actions-footer/actions-footer */ "../app/modules/import-export/assets/js/shared/actions-footer/actions-footer.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _useImportActions2 = _interopRequireDefault(__webpack_require__(/*! ../../../hooks/use-import-actions */ "../app/modules/import-export/assets/js/pages/import/hooks/use-import-actions.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
@@ -9550,7 +9550,7 @@ exports["default"] = PluginsToImport;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _importContextProvider = __webpack_require__(/*! ../../../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _pluginsSelection = _interopRequireDefault(__webpack_require__(/*! ../../../../../shared/plugins-selection/plugins-selection */ "../app/modules/import-export/assets/js/shared/plugins-selection/plugins-selection.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 var _usePlugins = __webpack_require__(/*! ../../../../../hooks/use-plugins */ "../app/modules/import-export/assets/js/hooks/use-plugins.js");
 var _usePluginsData = __webpack_require__(/*! ../../../../../hooks/use-plugins-data */ "../app/modules/import-export/assets/js/hooks/use-plugins-data.js");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -9634,9 +9634,9 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ProBanner;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
-var _messageBanner = _interopRequireDefault(__webpack_require__(/*! ../../../../../ui/message-banner/message-banner */ "../app/modules/import-export/assets/js/ui/message-banner/message-banner.js"));
+var _messageBanner = _interopRequireDefault(__webpack_require__(/*! ../../../../../ui/message-banner/message-banner */ "../app/modules/import-export/assets/js/message-banner/message-banner.js"));
 var _goProButton = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/go-pro-button */ "../app/assets/js/molecules/go-pro-button.js"));
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 __webpack_require__(/*! ./pro-banner.scss */ "../app/modules/import-export/assets/js/pages/import/import-plugins/components/pro-banner/pro-banner.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
@@ -9773,14 +9773,14 @@ var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/r
 var _importContextProvider = __webpack_require__(/*! ../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
-var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/ui/page-header/page-header.js"));
+var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/page-header/page-header.js"));
 var _pluginsToImport = _interopRequireDefault(__webpack_require__(/*! ./components/plugins-to-import/plugins-to-import */ "../app/modules/import-export/assets/js/pages/import/import-plugins/components/plugins-to-import/plugins-to-import.js"));
 var _existingPlugins = _interopRequireDefault(__webpack_require__(/*! ./components/existing-plugins/existing-plugins */ "../app/modules/import-export/assets/js/pages/import/import-plugins/components/existing-plugins/existing-plugins.js"));
 var _proBanner = _interopRequireDefault(__webpack_require__(/*! ./components/pro-banner/pro-banner */ "../app/modules/import-export/assets/js/pages/import/import-plugins/components/pro-banner/pro-banner.js"));
 var _importPluginsFooter = _interopRequireDefault(__webpack_require__(/*! ./components/import-plugins-footer/import-plugins-footer */ "../app/modules/import-export/assets/js/pages/import/import-plugins/components/import-plugins-footer/import-plugins-footer.js"));
-var _loader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/loader/loader */ "../app/modules/import-export/assets/js/ui/loader/loader.js"));
-var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/ui/molecules/notice.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _loader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/loader/loader */ "../app/modules/import-export/assets/js/loader/loader.js"));
+var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/molecules/notice.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _usePlugins2 = _interopRequireWildcard(__webpack_require__(/*! ../../../hooks/use-plugins */ "../app/modules/import-export/assets/js/hooks/use-plugins.js"));
 var _usePluginsData2 = _interopRequireDefault(__webpack_require__(/*! ../../../hooks/use-plugins-data */ "../app/modules/import-export/assets/js/hooks/use-plugins-data.js"));
 var _useImportPluginsData2 = _interopRequireDefault(__webpack_require__(/*! ./hooks/use-import-plugins-data */ "../app/modules/import-export/assets/js/pages/import/import-plugins/hooks/use-import-plugins-data.js"));
@@ -10205,7 +10205,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ConflictCheckbox;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _importContextProvider = __webpack_require__(/*! ../../../../../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
-var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/ui/atoms/checkbox.js"));
+var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/atoms/checkbox.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function ConflictCheckbox(props) {
@@ -10270,10 +10270,10 @@ var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _importContextProvider = __webpack_require__(/*! ../../../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _sharedContextProvider = __webpack_require__(/*! ../../../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _conflictCheckbox = _interopRequireDefault(__webpack_require__(/*! ./components/conflict-checkbox/conflict-checkbox */ "../app/modules/import-export/assets/js/pages/import/import-resolver/components/conflict/components/conflict-checkbox/conflict-checkbox.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
@@ -10388,15 +10388,15 @@ var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/r
 var _sharedContextProvider = __webpack_require__(/*! ../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 var _importContextProvider = __webpack_require__(/*! ../../../context/import-context/import-context-provider */ "../app/modules/import-export/assets/js/context/import-context/import-context-provider.js");
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../../../templates/layout */ "../app/modules/import-export/assets/js/templates/layout.js"));
-var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/ui/page-header/page-header.js"));
+var _pageHeader = _interopRequireDefault(__webpack_require__(/*! ../../../ui/page-header/page-header */ "../app/modules/import-export/assets/js/page-header/page-header.js"));
 var _conflict = _interopRequireDefault(__webpack_require__(/*! ./components/conflict/conflict */ "../app/modules/import-export/assets/js/pages/import/import-resolver/components/conflict/conflict.js"));
 var _actionsFooter = _interopRequireDefault(__webpack_require__(/*! ../../../shared/actions-footer/actions-footer */ "../app/modules/import-export/assets/js/shared/actions-footer/actions-footer.js"));
-var _panel = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/panel/panel */ "../app/assets/js/ui/panel/panel.js"));
-var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/ui/molecules/notice.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
-var _box = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/box */ "../app/assets/js/ui/atoms/box.js"));
-var _list = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/list */ "../app/assets/js/ui/molecules/list.js"));
+var _panel = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/panel/panel */ "../app/assets/js/panel/panel.js"));
+var _notice = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/notice */ "../app/assets/js/molecules/notice.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
+var _box = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/box */ "../app/assets/js/atoms/box.js"));
+var _list = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/list */ "../app/assets/js/molecules/list.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 __webpack_require__(/*! ./import-resolver.scss */ "../app/modules/import-export/assets/js/pages/import/import-resolver/import-resolver.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -10626,9 +10626,9 @@ exports["default"] = CptSelectBox;
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _sharedContextProvider = __webpack_require__(/*! ../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
-var _select = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/select2 */ "../app/assets/js/ui/molecules/select2.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _textField = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text-field */ "../app/assets/js/ui/atoms/text-field.js"));
+var _select = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/select2 */ "../app/assets/js/molecules/select2.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _textField = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text-field */ "../app/assets/js/atoms/text-field.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function CptSelectBox() {
@@ -10706,7 +10706,7 @@ exports["default"] = FileProcess;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 var _processFailedDialog = _interopRequireDefault(__webpack_require__(/*! ../process-failed-dialog/process-failed-dialog */ "../app/modules/import-export/assets/js/shared/process-failed-dialog/process-failed-dialog.js"));
-var _wizardStep = _interopRequireDefault(__webpack_require__(/*! ../../ui/wizard-step/wizard-step */ "../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.js"));
+var _wizardStep = _interopRequireDefault(__webpack_require__(/*! ../../ui/wizard-step/wizard-step */ "../app/modules/import-export/assets/js/wizard-step/wizard-step.js"));
 function FileProcess(props) {
   return /*#__PURE__*/_react.default.createElement(_wizardStep.default, {
     className: (0, _utils.arrayToClassName)(['e-app-import-export-file-process', props.className]),
@@ -10752,7 +10752,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ExportInfoModal;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _infoModal = _interopRequireDefault(__webpack_require__(/*! ./info-modal */ "../app/modules/import-export/assets/js/shared/info-modal/info-modal.js"));
 function ExportInfoModal(props) {
   return /*#__PURE__*/_react.default.createElement(_infoModal.default, (0, _extends2.default)({}, props, {
@@ -10783,7 +10783,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ImportInfoModal;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _infoModal = _interopRequireDefault(__webpack_require__(/*! ./info-modal */ "../app/modules/import-export/assets/js/shared/info-modal/info-modal.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 function ImportInfoModal(props) {
@@ -10829,7 +10829,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = InfoModalHeading;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 function InfoModalHeading(props) {
   return /*#__PURE__*/_react.default.createElement(_heading.default, {
     variant: "h3",
@@ -10864,7 +10864,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = InfoModalSection;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/ui/modal/modal.js"));
+var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/modal/modal.js"));
 function InfoModalSection(props) {
   return /*#__PURE__*/_react.default.createElement(_modal.default.Section, {
     className: (0, _utils.arrayToClassName)(['e-app-import-export-info-modal__section', props.className])
@@ -10897,7 +10897,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = InfoModalText;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 function InfoModalText(props) {
   return /*#__PURE__*/_react.default.createElement(_text.default, {
     variant: "sm",
@@ -10932,7 +10932,7 @@ exports["default"] = InfoModalTip;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/ui/modal/modal.js"));
+var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/modal/modal.js"));
 function InfoModalTip(props) {
   return /*#__PURE__*/_react.default.createElement(_modal.default.Tip, (0, _extends2.default)({}, props, {
     className: (0, _utils.arrayToClassName)(['e-app-import-export-info-modal__tip', props.className])
@@ -10966,7 +10966,7 @@ exports["default"] = InfoModal;
 exports.infoButtonProps = void 0;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/ui/modal/modal.js"));
+var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/modal/modal.js"));
 var _infoModalSection = _interopRequireDefault(__webpack_require__(/*! ./info-modal-section */ "../app/modules/import-export/assets/js/shared/info-modal/info-modal-section.js"));
 var _infoModalHeading = _interopRequireDefault(__webpack_require__(/*! ./info-modal-heading */ "../app/modules/import-export/assets/js/shared/info-modal/info-modal-heading.js"));
 var _infoModalText = _interopRequireDefault(__webpack_require__(/*! ./info-modal-text */ "../app/modules/import-export/assets/js/shared/info-modal/info-modal-text.js"));
@@ -11078,7 +11078,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = KitContentCheckbox;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _sharedContextProvider = __webpack_require__(/*! ../../../../context/shared-context/shared-context-provider */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
-var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/ui/atoms/checkbox.js"));
+var _checkbox = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/checkbox */ "../app/assets/js/atoms/checkbox.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function KitContentCheckbox(props) {
@@ -11196,11 +11196,11 @@ var _templatesFeatures = _interopRequireDefault(__webpack_require__(/*! ./compon
 var _kitContentCheckbox = _interopRequireDefault(__webpack_require__(/*! ./components/kit-content-checkbox/kit-content-checkbox */ "../app/modules/import-export/assets/js/shared/kit-content/components/kit-content-checkbox/kit-content-checkbox.js"));
 var _cptSelectBox = _interopRequireDefault(__webpack_require__(/*! ../cpt-select-box/cpt-select-box */ "../app/modules/import-export/assets/js/shared/cpt-select-box/cpt-select-box.js"));
 var _goProButton = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/go-pro-button */ "../app/assets/js/molecules/go-pro-button.js"));
-var _box = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/box */ "../app/assets/js/ui/atoms/box.js"));
-var _list = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/list */ "../app/assets/js/ui/molecules/list.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _box = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/box */ "../app/assets/js/atoms/box.js"));
+var _list = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/list */ "../app/assets/js/molecules/list.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 var _sharedContextProvider = __webpack_require__(/*! ./../../context/shared-context/shared-context-provider.js */ "../app/modules/import-export/assets/js/context/shared-context/shared-context-provider.js");
 __webpack_require__(/*! ./kit-content.scss */ "../app/modules/import-export/assets/js/shared/kit-content/kit-content.scss");
@@ -11326,7 +11326,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = Included;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 function Included(_ref) {
   var data = _ref.data;
   return /*#__PURE__*/_react.default.createElement(_text.default, {
@@ -11357,9 +11357,9 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = SiteArea;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 function SiteArea(_ref) {
   var text = _ref.text,
@@ -11598,9 +11598,9 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = void 0;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _dataTable = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/data-table */ "../app/assets/js/molecules/data-table.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
 __webpack_require__(/*! ./plugins-table.scss */ "../app/modules/import-export/assets/js/shared/plugins-selection/components/plugins-table.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
@@ -11793,10 +11793,10 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ProcessFailedDialog;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 var _useQueryParams = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-query-params */ "../app/assets/js/hooks/use-query-params.js"));
 var _useAction = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-action */ "../app/assets/js/hooks/use-action.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 var messagesContent = {
@@ -12044,9 +12044,9 @@ Layout.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/loader/loader.js":
+/***/ "../app/modules/import-export/assets/js/loader/loader.js":
 /*!******************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/loader/loader.js ***!
+  !*** ../app/modules/import-export/assets/js/loader/loader.js ***!
   \******************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -12061,8 +12061,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Loader;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-__webpack_require__(/*! ./loader.scss */ "../app/modules/import-export/assets/js/ui/loader/loader.scss");
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+__webpack_require__(/*! ./loader.scss */ "../app/modules/import-export/assets/js/loader/loader.scss");
 function Loader(_ref) {
   var absoluteCenter = _ref.absoluteCenter;
   var baseClassName = 'e-app-import-export-loader',
@@ -12083,9 +12083,9 @@ Loader.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/message-banner/message-banner.js":
+/***/ "../app/modules/import-export/assets/js/message-banner/message-banner.js":
 /*!**********************************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/message-banner/message-banner.js ***!
+  !*** ../app/modules/import-export/assets/js/message-banner/message-banner.js ***!
   \**********************************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -12099,11 +12099,11 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = MessageBanner;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _box = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/box */ "../app/assets/js/ui/atoms/box.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-__webpack_require__(/*! ./message-banner.scss */ "../app/modules/import-export/assets/js/ui/message-banner/message-banner.scss");
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _box = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/box */ "../app/assets/js/atoms/box.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+__webpack_require__(/*! ./message-banner.scss */ "../app/modules/import-export/assets/js/message-banner/message-banner.scss");
 function MessageBanner(_ref) {
   var heading = _ref.heading,
     description = _ref.description,
@@ -12141,9 +12141,9 @@ MessageBanner.propTypes = {
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/page-header/page-header.js":
+/***/ "../app/modules/import-export/assets/js/page-header/page-header.js":
 /*!****************************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/page-header/page-header.js ***!
+  !*** ../app/modules/import-export/assets/js/page-header/page-header.js ***!
   \****************************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -12158,10 +12158,10 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = PageHeader;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-__webpack_require__(/*! ./page-header.scss */ "../app/modules/import-export/assets/js/ui/page-header/page-header.scss");
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+__webpack_require__(/*! ./page-header.scss */ "../app/modules/import-export/assets/js/page-header/page-header.scss");
 // Page header.
 function PageHeader(props) {
   var baseClassName = 'e-app-import-export-page-header',
@@ -12206,9 +12206,9 @@ PageHeader.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.js":
+/***/ "../app/modules/import-export/assets/js/wizard-step/wizard-step.js":
 /*!****************************************************************************!*\
-  !*** ../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.js ***!
+  !*** ../app/modules/import-export/assets/js/wizard-step/wizard-step.js ***!
   \****************************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -12223,11 +12223,11 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = WizardStep;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-__webpack_require__(/*! ./wizard-step.scss */ "../app/modules/import-export/assets/js/ui/wizard-step/wizard-step.scss");
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+__webpack_require__(/*! ./wizard-step.scss */ "../app/modules/import-export/assets/js/wizard-step/wizard-step.scss");
 function WizardStep(props) {
   var baseClassName = 'e-app-import-export-wizard-step',
     classes = [baseClassName, props.className];

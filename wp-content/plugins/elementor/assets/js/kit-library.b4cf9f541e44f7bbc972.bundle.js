@@ -238,9 +238,9 @@ ElementorLoading.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/popover-dialog/popover-dialog.js":
+/***/ "../app/assets/js/popover-dialog/popover-dialog.js":
 /*!************************************************************!*\
-  !*** ../app/assets/js/ui/popover-dialog/popover-dialog.js ***!
+  !*** ../app/assets/js/popover-dialog/popover-dialog.js ***!
   \************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3292,7 +3292,7 @@ var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runt
 var _header = _interopRequireDefault(__webpack_require__(/*! ../../components/layout/header */ "../app/modules/kit-library/assets/js/components/layout/header.js"));
 var _appUi = __webpack_require__(/*! @elementor/app-ui */ "@elementor/app-ui");
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
-var _popoverDialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/popover-dialog/popover-dialog */ "../app/assets/js/ui/popover-dialog/popover-dialog.js"));
+var _popoverDialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/popover-dialog/popover-dialog */ "../app/assets/js/popover-dialog/popover-dialog.js"));
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
 __webpack_require__(/*! ./index-header.scss */ "../app/modules/kit-library/assets/js/pages/index/index-header.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }

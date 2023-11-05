@@ -48,9 +48,9 @@ ElementorLoading.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/popover-dialog/popover-dialog.js":
+/***/ "../app/assets/js/popover-dialog/popover-dialog.js":
 /*!************************************************************!*\
-  !*** ../app/assets/js/ui/popover-dialog/popover-dialog.js ***!
+  !*** ../app/assets/js/popover-dialog/popover-dialog.js ***!
   \************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -457,7 +457,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = GoProPopover;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _context = __webpack_require__(/*! ../context/context */ "../app/modules/onboarding/assets/js/context/context.js");
-var _popoverDialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/popover-dialog/popover-dialog */ "../app/assets/js/ui/popover-dialog/popover-dialog.js"));
+var _popoverDialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/popover-dialog/popover-dialog */ "../app/assets/js/popover-dialog/popover-dialog.js"));
 var _checklist = _interopRequireDefault(__webpack_require__(/*! ./checklist */ "../app/modules/onboarding/assets/js/components/checklist.js"));
 var _checklistItem = _interopRequireDefault(__webpack_require__(/*! ./checklist-item */ "../app/modules/onboarding/assets/js/components/checklist-item.js"));
 var _button = _interopRequireDefault(__webpack_require__(/*! ./button */ "../app/modules/onboarding/assets/js/components/button.js"));
@@ -566,7 +566,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = FooterButtons;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 var _button = _interopRequireDefault(__webpack_require__(/*! ../button */ "../app/modules/onboarding/assets/js/components/button.js"));
 var _skipButton = _interopRequireDefault(__webpack_require__(/*! ../skip-button */ "../app/modules/onboarding/assets/js/components/skip-button.js"));
 function FooterButtons(_ref) {
@@ -615,7 +615,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Header;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _context = __webpack_require__(/*! ../../context/context */ "../app/modules/onboarding/assets/js/context/context.js");
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 var _goProPopover = _interopRequireDefault(__webpack_require__(/*! ../go-pro-popover */ "../app/modules/onboarding/assets/js/components/go-pro-popover.js"));
 var _headerButtons = _interopRequireDefault(__webpack_require__(/*! elementor-app/layout/header-buttons */ "../app/assets/js/layout/header-buttons.js"));
 var _usePageTitle = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-page-title */ "../app/assets/js/hooks/use-page-title.js"));
@@ -819,7 +819,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = PageContentLayout;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _context = __webpack_require__(/*! ../../context/context */ "../app/modules/onboarding/assets/js/context/context.js");
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 var _notice = _interopRequireDefault(__webpack_require__(/*! ../notice */ "../app/modules/onboarding/assets/js/components/notice.js"));
 var _footerButtons = _interopRequireDefault(__webpack_require__(/*! ./footer-buttons */ "../app/modules/onboarding/assets/js/components/layout/footer-buttons.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -1366,7 +1366,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = GoodToGo;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../components/layout/layout */ "../app/modules/onboarding/assets/js/components/layout/layout.js"));
 var _card = _interopRequireDefault(__webpack_require__(/*! ../components/card */ "../app/modules/onboarding/assets/js/components/card.js"));
 var _footerButtons = _interopRequireDefault(__webpack_require__(/*! ../components/layout/footer-buttons */ "../app/modules/onboarding/assets/js/components/layout/footer-buttons.js"));

@@ -32,9 +32,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/box.scss":
+/***/ "../app/assets/js/atoms/box.scss":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/atoms/box.scss ***!
+  !*** ../app/assets/js/atoms/box.scss ***!
   \******************************************/
 /***/ (() => {
 
@@ -42,9 +42,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/checkbox.scss":
+/***/ "../app/assets/js/atoms/checkbox.scss":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/atoms/checkbox.scss ***!
+  !*** ../app/assets/js/atoms/checkbox.scss ***!
   \***********************************************/
 /***/ (() => {
 
@@ -52,9 +52,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/css-grid.scss":
+/***/ "../app/assets/js/atoms/css-grid.scss":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/atoms/css-grid.scss ***!
+  !*** ../app/assets/js/atoms/css-grid.scss ***!
   \***********************************************/
 /***/ (() => {
 
@@ -62,9 +62,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/drag-drop.scss":
+/***/ "../app/assets/js/atoms/drag-drop.scss":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/atoms/drag-drop.scss ***!
+  !*** ../app/assets/js/atoms/drag-drop.scss ***!
   \************************************************/
 /***/ (() => {
 
@@ -72,9 +72,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card.scss":
+/***/ "../app/assets/js/card/card.scss":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/card/card.scss ***!
+  !*** ../app/assets/js/card/card.scss ***!
   \******************************************/
 /***/ (() => {
 
@@ -82,9 +82,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog.scss":
+/***/ "../app/assets/js/dialog/dialog.scss":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog.scss ***!
+  !*** ../app/assets/js/dialog/dialog.scss ***!
   \**********************************************/
 /***/ (() => {
 
@@ -92,9 +92,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/grid/grid.scss":
+/***/ "../app/assets/js/grid/grid.scss":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/grid/grid.scss ***!
+  !*** ../app/assets/js/grid/grid.scss ***!
   \******************************************/
 /***/ (() => {
 
@@ -102,9 +102,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/menu/menu-item.scss":
+/***/ "../app/assets/js/menu/menu-item.scss":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/menu/menu-item.scss ***!
+  !*** ../app/assets/js/menu/menu-item.scss ***!
   \***********************************************/
 /***/ (() => {
 
@@ -112,9 +112,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/menu/menu.scss":
+/***/ "../app/assets/js/menu/menu.scss":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/menu/menu.scss ***!
+  !*** ../app/assets/js/menu/menu.scss ***!
   \******************************************/
 /***/ (() => {
 
@@ -122,9 +122,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal.scss":
+/***/ "../app/assets/js/modal/modal.scss":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/modal/modal.scss ***!
+  !*** ../app/assets/js/modal/modal.scss ***!
   \********************************************/
 /***/ (() => {
 
@@ -132,9 +132,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/add-new-button.scss":
+/***/ "../app/assets/js/molecules/add-new-button.scss":
 /*!*********************************************************!*\
-  !*** ../app/assets/js/ui/molecules/add-new-button.scss ***!
+  !*** ../app/assets/js/molecules/add-new-button.scss ***!
   \*********************************************************/
 /***/ (() => {
 
@@ -142,9 +142,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/inline-link.scss":
+/***/ "../app/assets/js/molecules/inline-link.scss":
 /*!******************************************************!*\
-  !*** ../app/assets/js/ui/molecules/inline-link.scss ***!
+  !*** ../app/assets/js/molecules/inline-link.scss ***!
   \******************************************************/
 /***/ (() => {
 
@@ -152,9 +152,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/list.scss":
+/***/ "../app/assets/js/molecules/list.scss":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/molecules/list.scss ***!
+  !*** ../app/assets/js/molecules/list.scss ***!
   \***********************************************/
 /***/ (() => {
 
@@ -162,9 +162,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/notice.scss":
+/***/ "../app/assets/js/molecules/notice.scss":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/molecules/notice.scss ***!
+  !*** ../app/assets/js/molecules/notice.scss ***!
   \*************************************************/
 /***/ (() => {
 
@@ -172,9 +172,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/popover.scss":
+/***/ "../app/assets/js/molecules/popover.scss":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/molecules/popover.scss ***!
+  !*** ../app/assets/js/molecules/popover.scss ***!
   \**************************************************/
 /***/ (() => {
 
@@ -182,9 +182,9 @@
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/select2.scss":
+/***/ "../app/assets/js/molecules/select2.scss":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/molecules/select2.scss ***!
+  !*** ../app/assets/js/molecules/select2.scss ***!
   \**************************************************/
 /***/ (() => {
 
@@ -1950,7 +1950,7 @@ var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/h
 var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! ../ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! ../ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 var Button = /*#__PURE__*/function (_BaseButton) {
@@ -2059,7 +2059,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Header;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! ../ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! ../ui/grid/grid */ "../app/assets/js/grid/grid.js"));
 var _headerButtons = _interopRequireDefault(__webpack_require__(/*! ./header-buttons */ "../app/assets/js/layout/header-buttons.js"));
 var _usePageTitle = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-page-title */ "../app/assets/js/hooks/use-page-title.js"));
 function Header(props) {
@@ -2392,7 +2392,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = GoProButton;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 function GoProButton(props) {
   var baseClassName = 'e-app-go-pro-button',
@@ -2436,7 +2436,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = UploadFile;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 __webpack_require__(/*! ./upload-file.scss */ "../app/assets/js/molecules/upload-file.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
@@ -2556,10 +2556,10 @@ var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
 var _uploadFile = _interopRequireDefault(__webpack_require__(/*! elementor-app/molecules/upload-file */ "../app/assets/js/molecules/upload-file.js"));
-var _dragDrop = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/drag-drop */ "../app/assets/js/ui/atoms/drag-drop.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _dragDrop = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/drag-drop */ "../app/assets/js/atoms/drag-drop.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 __webpack_require__(/*! ./drop-zone.scss */ "../app/assets/js/organisms/drop-zone.scss");
 function DropZone(props) {
   var classes = ['e-app-drop-zone', props.className],
@@ -2669,7 +2669,7 @@ var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/h
 var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 // In the current time there is no solution to use "getDerivedStateFromError" static method with functional component
@@ -2758,7 +2758,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = UnfilteredFilesDialog;
 var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 var _useAjax2 = _interopRequireDefault(__webpack_require__(/*! elementor-app/hooks/use-ajax */ "../app/assets/js/hooks/use-ajax.js"));
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
@@ -2880,39 +2880,39 @@ Object.defineProperty(exports, "__esModule", ({
   value: true
 }));
 exports.hooks = exports.components = exports.appUi = void 0;
-var _addNewButton = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/add-new-button */ "../app/assets/js/ui/molecules/add-new-button.js"));
-var _box = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/box */ "../app/assets/js/ui/atoms/box.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
-var _card = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card */ "../app/assets/js/ui/card/card.js"));
-var _cardBody = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-body */ "../app/assets/js/ui/card/card-body.js"));
-var _cardFooter = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-footer */ "../app/assets/js/ui/card/card-footer.js"));
-var _cardImage = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-image */ "../app/assets/js/ui/card/card-image.js"));
-var _cardHeader = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-header */ "../app/assets/js/ui/card/card-header.js"));
-var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-overlay */ "../app/assets/js/ui/card/card-overlay.js"));
-var _checkbox = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/checkbox */ "../app/assets/js/ui/atoms/checkbox.js"));
+var _addNewButton = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/add-new-button */ "../app/assets/js/molecules/add-new-button.js"));
+var _box = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/box */ "../app/assets/js/atoms/box.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/button */ "../app/assets/js/molecules/button.js"));
+var _card = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card */ "../app/assets/js/card/card.js"));
+var _cardBody = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-body */ "../app/assets/js/card/card-body.js"));
+var _cardFooter = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-footer */ "../app/assets/js/card/card-footer.js"));
+var _cardImage = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-image */ "../app/assets/js/card/card-image.js"));
+var _cardHeader = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-header */ "../app/assets/js/card/card-header.js"));
+var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! ./ui/card/card-overlay */ "../app/assets/js/card/card-overlay.js"));
+var _checkbox = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/checkbox */ "../app/assets/js/atoms/checkbox.js"));
 var _collapse = _interopRequireDefault(__webpack_require__(/*! ./molecules/collapse */ "../app/assets/js/molecules/collapse.js"));
-var _cssGrid = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/css-grid */ "../app/assets/js/ui/atoms/css-grid.js"));
-var _dialog = _interopRequireDefault(__webpack_require__(/*! ./ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
-var _dragDrop = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/drag-drop */ "../app/assets/js/ui/atoms/drag-drop.js"));
+var _cssGrid = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/css-grid */ "../app/assets/js/atoms/css-grid.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! ./ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
+var _dragDrop = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/drag-drop */ "../app/assets/js/atoms/drag-drop.js"));
 var _dropZone = _interopRequireDefault(__webpack_require__(/*! ./organisms/drop-zone */ "../app/assets/js/organisms/drop-zone.js"));
 var _errorBoundary = _interopRequireDefault(__webpack_require__(/*! ./organisms/error-boundary */ "../app/assets/js/organisms/error-boundary.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 var _goProButton = _interopRequireDefault(__webpack_require__(/*! ./molecules/go-pro-button */ "../app/assets/js/molecules/go-pro-button.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! ./ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _list = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/list */ "../app/assets/js/ui/molecules/list.js"));
-var _menu = _interopRequireDefault(__webpack_require__(/*! ./ui/menu/menu */ "../app/assets/js/ui/menu/menu.js"));
-var _menuItem = _interopRequireDefault(__webpack_require__(/*! ./ui/menu/menu-item */ "../app/assets/js/ui/menu/menu-item.js"));
-var _modal = _interopRequireWildcard(__webpack_require__(/*! ./ui/modal/modal */ "../app/assets/js/ui/modal/modal.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! ./ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _list = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/list */ "../app/assets/js/molecules/list.js"));
+var _menu = _interopRequireDefault(__webpack_require__(/*! ./ui/menu/menu */ "../app/assets/js/menu/menu.js"));
+var _menuItem = _interopRequireDefault(__webpack_require__(/*! ./ui/menu/menu-item */ "../app/assets/js/menu/menu-item.js"));
+var _modal = _interopRequireWildcard(__webpack_require__(/*! ./ui/modal/modal */ "../app/assets/js/modal/modal.js"));
 var _notFound = _interopRequireDefault(__webpack_require__(/*! ./pages/not-found */ "../app/assets/js/pages/not-found.js"));
-var _notice = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/notice */ "../app/assets/js/ui/molecules/notice.js"));
+var _notice = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/notice */ "../app/assets/js/molecules/notice.js"));
 var _page = _interopRequireDefault(__webpack_require__(/*! ./layout/page */ "../app/assets/js/layout/page.js"));
-var _popover = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/popover */ "../app/assets/js/ui/molecules/popover.js"));
-var _select = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/select */ "../app/assets/js/ui/atoms/select.js"));
-var _select2 = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/select2 */ "../app/assets/js/ui/molecules/select2.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _popover = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/popover */ "../app/assets/js/molecules/popover.js"));
+var _select = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/select */ "../app/assets/js/atoms/select.js"));
+var _select2 = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/select2 */ "../app/assets/js/molecules/select2.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! ./ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 var _uploadFile = _interopRequireDefault(__webpack_require__(/*! ./molecules/upload-file */ "../app/assets/js/molecules/upload-file.js"));
-var _inlineLink = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/inline-link */ "../app/assets/js/ui/molecules/inline-link.js"));
+var _inlineLink = _interopRequireDefault(__webpack_require__(/*! ./ui/molecules/inline-link */ "../app/assets/js/molecules/inline-link.js"));
 var _unfilteredFilesDialog = _interopRequireDefault(__webpack_require__(/*! ./organisms/unfiltered-files-dialog.js */ "../app/assets/js/organisms/unfiltered-files-dialog.js"));
 var _useAjax = _interopRequireDefault(__webpack_require__(/*! ./hooks/use-ajax */ "../app/assets/js/hooks/use-ajax.js"));
 var _useAction = _interopRequireDefault(__webpack_require__(/*! ./hooks/use-action */ "../app/assets/js/hooks/use-action.js"));
@@ -3077,9 +3077,9 @@ exports["default"] = _default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/box.js":
+/***/ "../app/assets/js/atoms/box.js":
 /*!****************************************!*\
-  !*** ../app/assets/js/ui/atoms/box.js ***!
+  !*** ../app/assets/js/atoms/box.js ***!
   \****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3094,7 +3094,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Box;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./box.scss */ "../app/assets/js/ui/atoms/box.scss");
+__webpack_require__(/*! ./box.scss */ "../app/assets/js/atoms/box.scss");
 function Box(props) {
   var baseClassName = 'eps-box',
     classes = [baseClassName, props.className],
@@ -3119,9 +3119,9 @@ Box.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/checkbox.js":
+/***/ "../app/assets/js/atoms/checkbox.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/atoms/checkbox.js ***!
+  !*** ../app/assets/js/atoms/checkbox.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3136,7 +3136,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Checkbox;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./checkbox.scss */ "../app/assets/js/ui/atoms/checkbox.scss");
+__webpack_require__(/*! ./checkbox.scss */ "../app/assets/js/atoms/checkbox.scss");
 function Checkbox(_ref) {
   var className = _ref.className,
     checked = _ref.checked,
@@ -3187,9 +3187,9 @@ Checkbox.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/css-grid.js":
+/***/ "../app/assets/js/atoms/css-grid.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/atoms/css-grid.js ***!
+  !*** ../app/assets/js/atoms/css-grid.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3204,7 +3204,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CssGrid;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! ../../utils/utils */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./css-grid.scss */ "../app/assets/js/ui/atoms/css-grid.scss");
+__webpack_require__(/*! ./css-grid.scss */ "../app/assets/js/atoms/css-grid.scss");
 function CssGrid(props) {
   var gridStyle = {
     '--eps-grid-columns': props.columns,
@@ -3232,9 +3232,9 @@ CssGrid.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/drag-drop.js":
+/***/ "../app/assets/js/atoms/drag-drop.js":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/atoms/drag-drop.js ***!
+  !*** ../app/assets/js/atoms/drag-drop.js ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3252,7 +3252,7 @@ var _react = _interopRequireWildcard(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
 var _utils = __webpack_require__(/*! ../../utils/utils */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./drag-drop.scss */ "../app/assets/js/ui/atoms/drag-drop.scss");
+__webpack_require__(/*! ./drag-drop.scss */ "../app/assets/js/atoms/drag-drop.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function DragDrop(props) {
@@ -3313,9 +3313,9 @@ DragDrop.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/heading.js":
+/***/ "../app/assets/js/atoms/heading.js":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/atoms/heading.js ***!
+  !*** ../app/assets/js/atoms/heading.js ***!
   \********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3356,9 +3356,9 @@ Heading.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/icon.js":
+/***/ "../app/assets/js/atoms/icon.js":
 /*!*****************************************!*\
-  !*** ../app/assets/js/ui/atoms/icon.js ***!
+  !*** ../app/assets/js/atoms/icon.js ***!
   \*****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3386,9 +3386,9 @@ Icon.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/select.js":
+/***/ "../app/assets/js/atoms/select.js":
 /*!*******************************************!*\
-  !*** ../app/assets/js/ui/atoms/select.js ***!
+  !*** ../app/assets/js/atoms/select.js ***!
   \*******************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3444,9 +3444,9 @@ Select.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/atoms/text.js":
+/***/ "../app/assets/js/atoms/text.js":
 /*!*****************************************!*\
-  !*** ../app/assets/js/ui/atoms/text.js ***!
+  !*** ../app/assets/js/atoms/text.js ***!
   \*****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3486,9 +3486,9 @@ Text.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-body.js":
+/***/ "../app/assets/js/card/card-body.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/card/card-body.js ***!
+  !*** ../app/assets/js/card/card-body.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3503,7 +3503,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardBody;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardBody(props) {
   var classNameBase = 'eps-card__body',
     classes = [classNameBase, props.className],
@@ -3530,9 +3530,9 @@ CardBody.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-divider.js":
+/***/ "../app/assets/js/card/card-divider.js":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/card/card-divider.js ***!
+  !*** ../app/assets/js/card/card-divider.js ***!
   \************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3547,7 +3547,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardDivider;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardDivider(props) {
   var classNameBase = 'eps-card__divider',
     classes = [classNameBase, props.className];
@@ -3564,9 +3564,9 @@ CardDivider.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-footer.js":
+/***/ "../app/assets/js/card/card-footer.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/card/card-footer.js ***!
+  !*** ../app/assets/js/card/card-footer.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3581,7 +3581,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardFooter;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardFooter(props) {
   var classNameBase = 'eps-card__footer',
     classes = [classNameBase, props.className],
@@ -3608,9 +3608,9 @@ CardFooter.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-header.js":
+/***/ "../app/assets/js/card/card-header.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/card/card-header.js ***!
+  !*** ../app/assets/js/card/card-header.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3625,7 +3625,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardHeader;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardHeader(props) {
   var classNameBase = 'eps-card__header',
     classes = [classNameBase, props.className],
@@ -3652,9 +3652,9 @@ CardHeader.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-headline.js":
+/***/ "../app/assets/js/card/card-headline.js":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/card/card-headline.js ***!
+  !*** ../app/assets/js/card/card-headline.js ***!
   \*************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3669,7 +3669,7 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = CardHeadline;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardHeadline(props) {
   var classNameBase = 'eps-card__headline',
     classes = [classNameBase, props.className];
@@ -3687,9 +3687,9 @@ CardHeadline.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-image.js":
+/***/ "../app/assets/js/card/card-image.js":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/card/card-image.js ***!
+  !*** ../app/assets/js/card/card-image.js ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3703,7 +3703,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = CardImage;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardImage(props) {
   var image = /*#__PURE__*/_react.default.createElement("img", {
     src: props.src,
@@ -3727,9 +3727,9 @@ CardImage.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card-overlay.js":
+/***/ "../app/assets/js/card/card-overlay.js":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/card/card-overlay.js ***!
+  !*** ../app/assets/js/card/card-overlay.js ***!
   \************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3743,7 +3743,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = CardOverlay;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 function CardOverlay(props) {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "eps-card__image-overlay ".concat(props.className)
@@ -3759,9 +3759,9 @@ CardOverlay.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/card/card.js":
+/***/ "../app/assets/js/card/card.js":
 /*!****************************************!*\
-  !*** ../app/assets/js/ui/card/card.js ***!
+  !*** ../app/assets/js/card/card.js ***!
   \****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3775,14 +3775,14 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = void 0;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _cardHeader = _interopRequireDefault(__webpack_require__(/*! ./card-header */ "../app/assets/js/ui/card/card-header.js"));
-var _cardBody = _interopRequireDefault(__webpack_require__(/*! ./card-body */ "../app/assets/js/ui/card/card-body.js"));
-var _cardImage = _interopRequireDefault(__webpack_require__(/*! ./card-image */ "../app/assets/js/ui/card/card-image.js"));
-var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! ./card-overlay */ "../app/assets/js/ui/card/card-overlay.js"));
-var _cardFooter = _interopRequireDefault(__webpack_require__(/*! ./card-footer */ "../app/assets/js/ui/card/card-footer.js"));
-var _cardHeadline = _interopRequireDefault(__webpack_require__(/*! ./card-headline */ "../app/assets/js/ui/card/card-headline.js"));
-var _cardDivider = _interopRequireDefault(__webpack_require__(/*! ./card-divider */ "../app/assets/js/ui/card/card-divider.js"));
-__webpack_require__(/*! ./card.scss */ "../app/assets/js/ui/card/card.scss");
+var _cardHeader = _interopRequireDefault(__webpack_require__(/*! ./card-header */ "../app/assets/js/card/card-header.js"));
+var _cardBody = _interopRequireDefault(__webpack_require__(/*! ./card-body */ "../app/assets/js/card/card-body.js"));
+var _cardImage = _interopRequireDefault(__webpack_require__(/*! ./card-image */ "../app/assets/js/card/card-image.js"));
+var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! ./card-overlay */ "../app/assets/js/card/card-overlay.js"));
+var _cardFooter = _interopRequireDefault(__webpack_require__(/*! ./card-footer */ "../app/assets/js/card/card-footer.js"));
+var _cardHeadline = _interopRequireDefault(__webpack_require__(/*! ./card-headline */ "../app/assets/js/card/card-headline.js"));
+var _cardDivider = _interopRequireDefault(__webpack_require__(/*! ./card-divider */ "../app/assets/js/card/card-divider.js"));
+__webpack_require__(/*! ./card.scss */ "../app/assets/js/card/card.scss");
 var Card = _react.default.forwardRef(function (props, ref) {
   return /*#__PURE__*/_react.default.createElement("article", {
     className: "eps-card ".concat(props.className),
@@ -3810,9 +3810,9 @@ exports["default"] = _default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-actions.js":
+/***/ "../app/assets/js/dialog/dialog-actions.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-actions.js ***!
+  !*** ../app/assets/js/dialog/dialog-actions.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3837,9 +3837,9 @@ DialogActions.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-button.js":
+/***/ "../app/assets/js/dialog/dialog-button.js":
 /*!***************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-button.js ***!
+  !*** ../app/assets/js/dialog/dialog-button.js ***!
   \***************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3855,7 +3855,7 @@ exports["default"] = DialogButton;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function DialogButton(props) {
@@ -3874,9 +3874,9 @@ DialogButton.defaultProps = _objectSpread(_objectSpread({}, _button.default.defa
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-content.js":
+/***/ "../app/assets/js/dialog/dialog-content.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-content.js ***!
+  !*** ../app/assets/js/dialog/dialog-content.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3901,9 +3901,9 @@ DialogContent.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-text.js":
+/***/ "../app/assets/js/dialog/dialog-text.js":
 /*!*************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-text.js ***!
+  !*** ../app/assets/js/dialog/dialog-text.js ***!
   \*************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3918,7 +3918,7 @@ exports["default"] = DialogText;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function DialogText(props) {
@@ -3936,9 +3936,9 @@ DialogText.defaultProps = _objectSpread(_objectSpread({}, _text.default.defaultP
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-title.js":
+/***/ "../app/assets/js/dialog/dialog-title.js":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-title.js ***!
+  !*** ../app/assets/js/dialog/dialog-title.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3954,7 +3954,7 @@ exports["default"] = DialogTitle;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function DialogTitle(props) {
@@ -3973,9 +3973,9 @@ DialogTitle.defaultProps = _objectSpread(_objectSpread({}, _heading.default.prop
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog-wrapper.js":
+/***/ "../app/assets/js/dialog/dialog-wrapper.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog-wrapper.js ***!
+  !*** ../app/assets/js/dialog/dialog-wrapper.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -3990,7 +3990,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = DialogWrapper;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
 function DialogWrapper(props) {
   var WrapperTag = 'div';
   if (props.onSubmit) {
@@ -4017,9 +4017,9 @@ DialogWrapper.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/dialog/dialog.js":
+/***/ "../app/assets/js/dialog/dialog.js":
 /*!********************************************!*\
-  !*** ../app/assets/js/ui/dialog/dialog.js ***!
+  !*** ../app/assets/js/dialog/dialog.js ***!
   \********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4033,13 +4033,13 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = Dialog;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _dialogWrapper = _interopRequireDefault(__webpack_require__(/*! ./dialog-wrapper */ "../app/assets/js/ui/dialog/dialog-wrapper.js"));
-var _dialogContent = _interopRequireDefault(__webpack_require__(/*! ./dialog-content */ "../app/assets/js/ui/dialog/dialog-content.js"));
-var _dialogTitle = _interopRequireDefault(__webpack_require__(/*! ./dialog-title */ "../app/assets/js/ui/dialog/dialog-title.js"));
-var _dialogText = _interopRequireDefault(__webpack_require__(/*! ./dialog-text */ "../app/assets/js/ui/dialog/dialog-text.js"));
-var _dialogActions = _interopRequireDefault(__webpack_require__(/*! ./dialog-actions */ "../app/assets/js/ui/dialog/dialog-actions.js"));
-var _dialogButton = _interopRequireDefault(__webpack_require__(/*! ./dialog-button */ "../app/assets/js/ui/dialog/dialog-button.js"));
-__webpack_require__(/*! ./dialog.scss */ "../app/assets/js/ui/dialog/dialog.scss");
+var _dialogWrapper = _interopRequireDefault(__webpack_require__(/*! ./dialog-wrapper */ "../app/assets/js/dialog/dialog-wrapper.js"));
+var _dialogContent = _interopRequireDefault(__webpack_require__(/*! ./dialog-content */ "../app/assets/js/dialog/dialog-content.js"));
+var _dialogTitle = _interopRequireDefault(__webpack_require__(/*! ./dialog-title */ "../app/assets/js/dialog/dialog-title.js"));
+var _dialogText = _interopRequireDefault(__webpack_require__(/*! ./dialog-text */ "../app/assets/js/dialog/dialog-text.js"));
+var _dialogActions = _interopRequireDefault(__webpack_require__(/*! ./dialog-actions */ "../app/assets/js/dialog/dialog-actions.js"));
+var _dialogButton = _interopRequireDefault(__webpack_require__(/*! ./dialog-button */ "../app/assets/js/dialog/dialog-button.js"));
+__webpack_require__(/*! ./dialog.scss */ "../app/assets/js/dialog/dialog.scss");
 function Dialog(props) {
   return /*#__PURE__*/_react.default.createElement(_dialogWrapper.default, {
     onSubmit: props.onSubmit,
@@ -4093,9 +4093,9 @@ Dialog.Button = _dialogButton.default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/grid/grid.js":
+/***/ "../app/assets/js/grid/grid.js":
 /*!****************************************!*\
-  !*** ../app/assets/js/ui/grid/grid.js ***!
+  !*** ../app/assets/js/grid/grid.js ***!
   \****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4111,7 +4111,7 @@ exports["default"] = Grid;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _toConsumableArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/toConsumableArray */ "../node_modules/@babel/runtime/helpers/toConsumableArray.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./grid.scss */ "../app/assets/js/ui/grid/grid.scss");
+__webpack_require__(/*! ./grid.scss */ "../app/assets/js/grid/grid.scss");
 function Grid(props) {
   var propsMap = {
       direction: '--direction{{ -VALUE }}',
@@ -4192,9 +4192,9 @@ Grid.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/menu/menu-item.js":
+/***/ "../app/assets/js/menu/menu-item.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/menu/menu-item.js ***!
+  !*** ../app/assets/js/menu/menu-item.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4212,8 +4212,8 @@ var _get2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helper
 var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/inherits */ "../node_modules/@babel/runtime/helpers/inherits.js"));
 var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
-__webpack_require__(/*! ./menu-item.scss */ "../app/assets/js/ui/menu/menu-item.scss");
-var _button = _interopRequireDefault(__webpack_require__(/*! ../molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+__webpack_require__(/*! ./menu-item.scss */ "../app/assets/js/menu/menu-item.scss");
+var _button = _interopRequireDefault(__webpack_require__(/*! ../molecules/button */ "../app/assets/js/molecules/button.js"));
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 var SideMenuItem = /*#__PURE__*/function (_BaseButton) {
@@ -4240,9 +4240,9 @@ exports["default"] = SideMenuItem;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/menu/menu.js":
+/***/ "../app/assets/js/menu/menu.js":
 /*!****************************************!*\
-  !*** ../app/assets/js/ui/menu/menu.js ***!
+  !*** ../app/assets/js/menu/menu.js ***!
   \****************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4257,8 +4257,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Menu;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-__webpack_require__(/*! ./menu.scss */ "../app/assets/js/ui/menu/menu.scss");
-var _button = _interopRequireDefault(__webpack_require__(/*! ../molecules/button */ "../app/assets/js/ui/molecules/button.js"));
+__webpack_require__(/*! ./menu.scss */ "../app/assets/js/menu/menu.scss");
+var _button = _interopRequireDefault(__webpack_require__(/*! ../molecules/button */ "../app/assets/js/molecules/button.js"));
 var _router = _interopRequireDefault(__webpack_require__(/*! @elementor/router */ "@elementor/router"));
 var _router2 = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
 function Menu(props) {
@@ -4310,9 +4310,9 @@ Menu.propTypes = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal-section.js":
+/***/ "../app/assets/js/modal/modal-section.js":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/modal/modal-section.js ***!
+  !*** ../app/assets/js/modal/modal-section.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4342,9 +4342,9 @@ ModalSection.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal-tip.js":
+/***/ "../app/assets/js/modal/modal-tip.js":
 /*!**********************************************!*\
-  !*** ../app/assets/js/ui/modal/modal-tip.js ***!
+  !*** ../app/assets/js/modal/modal-tip.js ***!
   \**********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4360,8 +4360,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = ModalTip;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! ../../utils/utils */ "../app/assets/js/utils/utils.js");
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 function ModalTip(props) {
   return /*#__PURE__*/_react.default.createElement("div", {
     className: (0, _utils.arrayToClassName)(['eps-modal__tip', props.className])
@@ -4384,9 +4384,9 @@ ModalTip.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/modal/modal.js":
+/***/ "../app/assets/js/modal/modal.js":
 /*!******************************************!*\
-  !*** ../app/assets/js/ui/modal/modal.js ***!
+  !*** ../app/assets/js/modal/modal.js ***!
   \******************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4407,13 +4407,13 @@ var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/he
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _slicedToArray2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "../node_modules/@babel/runtime/helpers/slicedToArray.js"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _modalSection = _interopRequireDefault(__webpack_require__(/*! ./modal-section */ "../app/assets/js/ui/modal/modal-section.js"));
-var _modalTip = _interopRequireDefault(__webpack_require__(/*! ./modal-tip */ "../app/assets/js/ui/modal/modal-tip.js"));
-__webpack_require__(/*! ./modal.scss */ "../app/assets/js/ui/modal/modal.scss");
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _modalSection = _interopRequireDefault(__webpack_require__(/*! ./modal-section */ "../app/assets/js/modal/modal-section.js"));
+var _modalTip = _interopRequireDefault(__webpack_require__(/*! ./modal-tip */ "../app/assets/js/modal/modal-tip.js"));
+__webpack_require__(/*! ./modal.scss */ "../app/assets/js/modal/modal.scss");
 function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
@@ -4553,9 +4553,9 @@ Modal.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/add-new-button.js":
+/***/ "../app/assets/js/molecules/add-new-button.js":
 /*!*******************************************************!*\
-  !*** ../app/assets/js/ui/molecules/add-new-button.js ***!
+  !*** ../app/assets/js/molecules/add-new-button.js ***!
   \*******************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4575,8 +4575,8 @@ var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/h
 var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
 var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! ./button */ "../app/assets/js/ui/molecules/button.js"));
-__webpack_require__(/*! ./add-new-button.scss */ "../app/assets/js/ui/molecules/add-new-button.scss");
+var _button = _interopRequireDefault(__webpack_require__(/*! ./button */ "../app/assets/js/molecules/button.js"));
+__webpack_require__(/*! ./add-new-button.scss */ "../app/assets/js/molecules/add-new-button.scss");
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
@@ -4613,9 +4613,9 @@ exports["default"] = AddNewButton;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/button.js":
+/***/ "../app/assets/js/molecules/button.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/molecules/button.js ***!
+  !*** ../app/assets/js/molecules/button.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4638,7 +4638,7 @@ var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/run
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
 var _router2 = _interopRequireDefault(__webpack_require__(/*! @elementor/router */ "@elementor/router"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
 function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
 function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
 var Button = /*#__PURE__*/function (_React$Component) {
@@ -4779,9 +4779,9 @@ exports["default"] = Button;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/inline-link.js":
+/***/ "../app/assets/js/molecules/inline-link.js":
 /*!****************************************************!*\
-  !*** ../app/assets/js/ui/molecules/inline-link.js ***!
+  !*** ../app/assets/js/molecules/inline-link.js ***!
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4798,7 +4798,7 @@ var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
 var _router2 = _interopRequireDefault(__webpack_require__(/*! @elementor/router */ "@elementor/router"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-__webpack_require__(/*! ./inline-link.scss */ "../app/assets/js/ui/molecules/inline-link.scss");
+__webpack_require__(/*! ./inline-link.scss */ "../app/assets/js/molecules/inline-link.scss");
 function InlineLink(props) {
   var baseClassName = 'eps-inline-link',
     colorClassName = "".concat(baseClassName, "--color-").concat(props.color),
@@ -4856,9 +4856,9 @@ InlineLink.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/list-item.js":
+/***/ "../app/assets/js/molecules/list-item.js":
 /*!**************************************************!*\
-  !*** ../app/assets/js/ui/molecules/list-item.js ***!
+  !*** ../app/assets/js/molecules/list-item.js ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4899,9 +4899,9 @@ ListItem.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/list.js":
+/***/ "../app/assets/js/molecules/list.js":
 /*!*********************************************!*\
-  !*** ../app/assets/js/ui/molecules/list.js ***!
+  !*** ../app/assets/js/molecules/list.js ***!
   \*********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4916,8 +4916,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = List;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _listItem = _interopRequireDefault(__webpack_require__(/*! ./list-item */ "../app/assets/js/ui/molecules/list-item.js"));
-__webpack_require__(/*! ./list.scss */ "../app/assets/js/ui/molecules/list.scss");
+var _listItem = _interopRequireDefault(__webpack_require__(/*! ./list-item */ "../app/assets/js/molecules/list-item.js"));
+__webpack_require__(/*! ./list.scss */ "../app/assets/js/molecules/list.scss");
 function List(props) {
   var baseClassName = 'eps-list',
     classes = [baseClassName, props.className];
@@ -4950,9 +4950,9 @@ List.Item = _listItem.default;
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/notice.js":
+/***/ "../app/assets/js/molecules/notice.js":
 /*!***********************************************!*\
-  !*** ../app/assets/js/ui/molecules/notice.js ***!
+  !*** ../app/assets/js/molecules/notice.js ***!
   \***********************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -4967,10 +4967,10 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Notice;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _utils = __webpack_require__(/*! elementor-app/utils/utils.js */ "../app/assets/js/utils/utils.js");
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
-var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/ui/atoms/icon.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-__webpack_require__(/*! ./notice.scss */ "../app/assets/js/ui/molecules/notice.scss");
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
+var _icon = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/icon */ "../app/assets/js/atoms/icon.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+__webpack_require__(/*! ./notice.scss */ "../app/assets/js/molecules/notice.scss");
 var iconsClassesMap = {
   danger: 'eicon-warning',
   info: 'eicon-info-circle-o',
@@ -5022,9 +5022,9 @@ Notice.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/popover.js":
+/***/ "../app/assets/js/molecules/popover.js":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/molecules/popover.js ***!
+  !*** ../app/assets/js/molecules/popover.js ***!
   \************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5038,7 +5038,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = Popover;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-__webpack_require__(/*! ./popover.scss */ "../app/assets/js/ui/molecules/popover.scss");
+__webpack_require__(/*! ./popover.scss */ "../app/assets/js/molecules/popover.scss");
 /* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
 /* eslint-disable jsx-a11y/no-static-element-interactions */
 /* eslint-disable jsx-a11y/click-events-have-key-events */
@@ -5063,9 +5063,9 @@ Popover.defaultProps = {
 
 /***/ }),
 
-/***/ "../app/assets/js/ui/molecules/select2.js":
+/***/ "../app/assets/js/molecules/select2.js":
 /*!************************************************!*\
-  !*** ../app/assets/js/ui/molecules/select2.js ***!
+  !*** ../app/assets/js/molecules/select2.js ***!
   \************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
@@ -5080,8 +5080,8 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Select2;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _defineProperty2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/defineProperty */ "../node_modules/@babel/runtime/helpers/defineProperty.js"));
-var _select = _interopRequireDefault(__webpack_require__(/*! ../atoms/select */ "../app/assets/js/ui/atoms/select.js"));
-__webpack_require__(/*! ./select2.scss */ "../app/assets/js/ui/molecules/select2.scss");
+var _select = _interopRequireDefault(__webpack_require__(/*! ../atoms/select */ "../app/assets/js/atoms/select.js"));
+__webpack_require__(/*! ./select2.scss */ "../app/assets/js/molecules/select2.scss");
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 /**
@@ -5523,11 +5523,11 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = SitePart;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/ui/card/card.js"));
-var _cardHeader = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-header */ "../app/assets/js/ui/card/card-header.js"));
-var _cardBody = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-body */ "../app/assets/js/ui/card/card-body.js"));
-var _cardImage = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-image */ "../app/assets/js/ui/card/card-image.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _card = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card */ "../app/assets/js/card/card.js"));
+var _cardHeader = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-header */ "../app/assets/js/card/card-header.js"));
+var _cardBody = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-body */ "../app/assets/js/card/card-body.js"));
+var _cardImage = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-image */ "../app/assets/js/card/card-image.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 __webpack_require__(/*! ./site-part.scss */ "../app/modules/site-editor/assets/js/molecules/site-part.scss");
 function SitePart(props) {
   return /*#__PURE__*/_react.default.createElement(_card.default, {
@@ -5568,7 +5568,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = AllPartsButton;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _menuItem = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/menu/menu-item */ "../app/assets/js/ui/menu/menu-item.js"));
+var _menuItem = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/menu/menu-item */ "../app/assets/js/menu/menu-item.js"));
 var _router = __webpack_require__(/*! @reach/router */ "../node_modules/@reach/router/es/index.js");
 function AllPartsButton(props) {
   var activePathname = '/site-editor/templates';
@@ -5609,10 +5609,10 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = Menu;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _menu = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/menu/menu */ "../app/assets/js/ui/menu/menu.js"));
+var _menu = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/menu/menu */ "../app/assets/js/menu/menu.js"));
 var _templateTypes = __webpack_require__(/*! ../context/template-types */ "../app/modules/site-editor/assets/js/context/template-types.js");
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
-var _addNewButton = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/add-new-button */ "../app/assets/js/ui/molecules/add-new-button.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
+var _addNewButton = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/add-new-button */ "../app/assets/js/molecules/add-new-button.js"));
 __webpack_require__(/*! ./menu.scss */ "../app/modules/site-editor/assets/js/organisms/menu.scss");
 function Menu(props) {
   var _React$useContext = _react.default.useContext(_templateTypes.Context),
@@ -5673,9 +5673,9 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = SiteParts;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _extends2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/extends */ "../node_modules/@babel/runtime/helpers/extends.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
-var _cssGrid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/css-grid */ "../app/assets/js/ui/atoms/css-grid.js"));
-var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/ui/modal/modal.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
+var _cssGrid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/css-grid */ "../app/assets/js/atoms/css-grid.js"));
+var _modal = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/modal/modal */ "../app/assets/js/modal/modal.js"));
 var _sitePart = _interopRequireDefault(__webpack_require__(/*! ../molecules/site-part */ "../app/modules/site-editor/assets/js/molecules/site-part.js"));
 var _templateTypes = __webpack_require__(/*! ../context/template-types */ "../app/modules/site-editor/assets/js/context/template-types.js");
 /* eslint-disable jsx-a11y/iframe-has-title */
@@ -5790,7 +5790,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 exports["default"] = NotFound;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
-var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/ui/dialog/dialog.js"));
+var _dialog = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/dialog/dialog */ "../app/assets/js/dialog/dialog.js"));
 function NotFound() {
   var url = _react.default.useMemo(function () {
     var _elementorAppConfig$m;
@@ -5828,13 +5828,13 @@ Object.defineProperty(exports, "__esModule", ({
 exports["default"] = Promotion;
 var _react = _interopRequireDefault(__webpack_require__(/*! react */ "react"));
 var _allPartsButton = _interopRequireDefault(__webpack_require__(/*! ../organisms/all-parts-button */ "../app/modules/site-editor/assets/js/organisms/all-parts-button.js"));
-var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/ui/molecules/button.js"));
-var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-overlay */ "../app/assets/js/ui/card/card-overlay.js"));
-var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/ui/grid/grid.js"));
-var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/ui/atoms/heading.js"));
+var _button = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/molecules/button */ "../app/assets/js/molecules/button.js"));
+var _cardOverlay = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/card/card-overlay */ "../app/assets/js/card/card-overlay.js"));
+var _grid = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/grid/grid */ "../app/assets/js/grid/grid.js"));
+var _heading = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/heading */ "../app/assets/js/atoms/heading.js"));
 var _layout = _interopRequireDefault(__webpack_require__(/*! ../templates/layout */ "../app/modules/site-editor/assets/js/templates/layout.js"));
 var _siteParts = _interopRequireDefault(__webpack_require__(/*! ../organisms/site-parts */ "../app/modules/site-editor/assets/js/organisms/site-parts.js"));
-var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/ui/atoms/text.js"));
+var _text = _interopRequireDefault(__webpack_require__(/*! elementor-app/ui/atoms/text */ "../app/assets/js/atoms/text.js"));
 __webpack_require__(/*! ./promotion.scss */ "../app/modules/site-editor/assets/js/pages/promotion.scss");
 function Promotion() {
   var promotionUrl = 'https://go.elementor.com/go-pro-theme-builder/',
