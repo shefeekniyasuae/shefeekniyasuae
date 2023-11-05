@@ -292,7 +292,7 @@ class Icons_Manager {
 		$attributes['class'][] = self::FONT_ICON_SVG_CLASS_NAME;
 		$attributes['class'][] = 'e-' . $icon_data['key'];
 		$attributes['viewBox'] = '0 0 ' . $icon_data['width'] . ' ' . $icon_data['height'];
-		$attributes['xmlns'] = 'http://www.w3.org/2000/svg';
+		$attributes['xmlns'] = 'https://www.w3.org/2000/svg';
 
 		return (
 			'<svg ' . Utils::render_html_attributes( $attributes ) . '>' .

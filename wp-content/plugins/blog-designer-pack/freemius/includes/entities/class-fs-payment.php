@@ -64,7 +64,7 @@
         /**
          * @var string ISO 3166-1 alpha-2 - two-letter country code.
          *
-         * @link http://www.wikiwand.com/en/ISO_3166-1_alpha-2
+         * @link https://www.wikiwand.com/en/ISO_3166-1_alpha-2
          */
         public $country_code;
         /**

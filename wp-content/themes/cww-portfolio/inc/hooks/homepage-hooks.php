@@ -106,7 +106,7 @@ if( ! function_exists('cww_portfolio_banner')):
 
 			<div class="bottom-style">
 				<?php do_action('cww_portfolio_social_icons'); ?>
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400.6 1226.4" enable-background="new 0 0 1400.6 1226.4">
+				<svg version="1.1" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 1400.6 1226.4" enable-background="new 0 0 1400.6 1226.4">
 		            <path fill="currentColor" d="M1384.4,488c-49.2-80.5-218.1-104.6-341.5-187.7C920.4,218,845.3,76.7,731.8,24C618.3-27.9,466.3,8.8,342,91    C217.8,173.3,120.4,301.1,59.6,449.5C-0.3,597.9-23.6,766.9,30.1,905.4c52.7,138.6,182.4,246.7,318.2,292.3    c135.9,46.5,278,29.5,397.8-1.8c119.8-32.2,216.3-78.7,303-141.2c86.7-61.7,163.6-137.7,238.7-244C1362,704.3,1433.6,568.4,1384.4,488z"></path>
 		        </svg>
 			</div>

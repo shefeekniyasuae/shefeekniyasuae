@@ -120,7 +120,7 @@ class Svg_Sanitizer {
 	 * Is Encoded
 	 *
 	 * Check if the contents of the SVG file are gzipped
-	 * @see http://www.gzip.org/zlib/rfc-gzip.html#member-format
+	 * @see https://www.gzip.org/zlib/rfc-gzip.html#member-format
 	 *
 	 * @since 3.16.0
 	 * @access private
@@ -478,14 +478,14 @@ class Svg_Sanitizer {
 	 * @param \DOMElement $element
 	 */
 	private function strip_xlinks( $element ) {
-		$xlinks = $element->getAttributeNS( 'http://www.w3.org/1999/xlink', 'href' );
+		$xlinks = $element->getAttributeNS( 'https://www.w3.org/1999/xlink', 'href' );
 
 		if ( ! $xlinks ) {
 			return;
 		}
 
 		if ( ! $this->is_safe_href( $xlinks ) ) {
-			$element->removeAttributeNS( 'http://www.w3.org/1999/xlink', 'href' );
+			$element->removeAttributeNS( 'https://www.w3.org/1999/xlink', 'href' );
 		}
 	}
 
@@ -514,7 +514,7 @@ class Svg_Sanitizer {
 		}
 
 		// Allow HTTP domains.
-		if ( 'http://' === substr( $value, 0, 7 ) ) {
+		if ( 'https://' === substr( $value, 0, 7 ) ) {
 			return true;
 		}
 
@@ -552,7 +552,7 @@ class Svg_Sanitizer {
 	 * @param $element
 	 */
 	private function validate_use_tag( $element ) {
-		$xlinks = $element->getAttributeNS( 'http://www.w3.org/1999/xlink', 'href' );
+		$xlinks = $element->getAttributeNS( 'https://www.w3.org/1999/xlink', 'href' );
 		if ( $xlinks && '#' !== substr( $xlinks, 0, 1 ) ) {
 			$element->parentNode->removeChild( $element ); // phpcs:ignore -- php DomNode
 		}
@@ -583,7 +583,7 @@ class Svg_Sanitizer {
 		$elements = $this->svg_dom->getElementsByTagName( '*' );
 		// loop through all elements
 		// we do this backwards so we don't skip anything if we delete a node
-		// see comments at: http://php.net/manual/en/class.domnamednodemap.php
+		// see comments at: https://php.net/manual/en/class.domnamednodemap.php
 		for ( $index = $elements->length - 1; $index >= 0; $index-- ) {
 			/**
 			 * @var \DOMElement $current_element

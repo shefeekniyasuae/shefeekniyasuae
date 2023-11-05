@@ -368,7 +368,7 @@ if ( ! class_exists( 'CWW_Demos' ) ) {
 			</div>
 
 			<div class="cww-last">
-				<svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><circle class="checkmark-circle" cx="26" cy="26" r="25" fill="none"></circle><path class="checkmark-check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"></path></svg>
+				<svg class="checkmark" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 52 52"><circle class="checkmark-circle" cx="26" cy="26" r="25" fill="none"></circle><path class="checkmark-check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"></path></svg>
 				<h3><?php esc_html_e( 'Demo Imported!', 'cww-companion' ); ?></h3>
 				<a href="<?php echo esc_url( get_home_url() ); ?>"" target="_blank"><?php esc_html_e( 'See the result', 'cww-companion' ); ?></a>
 			</div>

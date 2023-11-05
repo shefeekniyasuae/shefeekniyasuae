@@ -16,7 +16,7 @@ final class UriResolver
     /**
      * Removes dot segments from a path and returns the new path.
      *
-     * @see http://tools.ietf.org/html/rfc3986#section-5.2.4
+     * @see https://tools.ietf.org/html/rfc3986#section-5.2.4
      */
     public static function removeDotSegments(string $path) : string
     {
@@ -46,7 +46,7 @@ final class UriResolver
     /**
      * Converts the relative URI into a new URI that is resolved against the base URI.
      *
-     * @see http://tools.ietf.org/html/rfc3986#section-5.2
+     * @see https://tools.ietf.org/html/rfc3986#section-5.2
      */
     public static function resolve(\YoastSEO_Vendor\Psr\Http\Message\UriInterface $base, \YoastSEO_Vendor\Psr\Http\Message\UriInterface $rel) : \YoastSEO_Vendor\Psr\Http\Message\UriInterface
     {
@@ -97,11 +97,11 @@ final class UriResolver
      * One use-case is to use the current request URI as base URI and then generate relative links in your documents
      * to reduce the document size or offer self-contained downloadable document archives.
      *
-     *    $base = new Uri('http://example.com/a/b/');
-     *    echo UriResolver::relativize($base, new Uri('http://example.com/a/b/c'));  // prints 'c'.
-     *    echo UriResolver::relativize($base, new Uri('http://example.com/a/x/y'));  // prints '../x/y'.
-     *    echo UriResolver::relativize($base, new Uri('http://example.com/a/b/?q')); // prints '?q'.
-     *    echo UriResolver::relativize($base, new Uri('http://example.org/a/b/'));   // prints '//example.org/a/b/'.
+     *    $base = new Uri('https://example.com/a/b/');
+     *    echo UriResolver::relativize($base, new Uri('https://example.com/a/b/c'));  // prints 'c'.
+     *    echo UriResolver::relativize($base, new Uri('https://example.com/a/x/y'));  // prints '../x/y'.
+     *    echo UriResolver::relativize($base, new Uri('https://example.com/a/b/?q')); // prints '?q'.
+     *    echo UriResolver::relativize($base, new Uri('https://example.org/a/b/'));   // prints '//example.org/a/b/'.
      *
      * This method also accepts a target that is already relative and will try to relativize it further. Only a
      * relative-path reference will be returned as-is.

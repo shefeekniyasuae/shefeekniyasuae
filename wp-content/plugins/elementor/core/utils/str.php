@@ -13,7 +13,7 @@ class Str {
 	 *
 	 * @param string $url - A URL to encode.
 	 *
-	 * @return string - IDN encoded URL ( e.g. `http://é.com` will be encoded to `http://xn--9ca.com` ).
+	 * @return string - IDN encoded URL ( e.g. `https://é.com` will be encoded to `https://xn--9ca.com` ).
 	 */
 	public static function encode_idn_url( $url ) {
 		return preg_replace_callback( '/(https?:\/\/)(.+)/', function ( $matches ) {

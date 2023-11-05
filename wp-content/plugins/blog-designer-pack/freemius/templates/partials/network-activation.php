@@ -68,7 +68,7 @@
                     <?php endif ?>
                     <td class="blog-id"><span><?php echo esc_html( $site['blog_id'] ) ?></span>.</td>
                     <td width="600"><span><?php
-                        $url = str_replace( 'http://', '', str_replace( 'https://', '', $site['url'] ) );
+                        $url = str_replace( 'https://', '', str_replace( 'https://', '', $site['url'] ) );
                         echo esc_html( $url );
                         ?></span>
                         <?php foreach ($site_props as $prop) : ?>

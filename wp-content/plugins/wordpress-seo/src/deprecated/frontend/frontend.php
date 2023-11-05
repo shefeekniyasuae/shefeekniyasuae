@@ -222,7 +222,7 @@ class WPSEO_Frontend {
 	/**
 	 * Adds 'prev' and 'next' links to archives.
 	 *
-	 * @link http://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html
+	 * @link https://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html
 	 */
 	public function adjacent_rel_links() {
 		_deprecated_function( __METHOD__, 'Yoast SEO 14.0' );

@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: CWW Companion
- * Plugin URI: http://codeworkweb.com/plugins/cww-companion
+ * Plugin URI: https://codeworkweb.com/plugins/cww-companion
  * Description: This plugin adds some useful featuers to themes made by us(Code Work Web).
  * Version: 1.2.0
  * Author: Code Work Web
  * Author URI: https://codeworkweb.com
  * Text Domain: cww-companion
  * License: GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path: /languages
  *
  */

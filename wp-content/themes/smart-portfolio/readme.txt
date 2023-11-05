@@ -8,7 +8,7 @@ Tested up to: 5.9
 Requires PHP: 5.6
 Stable tag: 1.0.2
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
 This theme, like WordPress, is licensed under the GPL.
@@ -50,13 +50,13 @@ Smart Portfolio includes support for Infinite Scroll in Jetpack.
 * Font Awesome
 * License For CSS: Licensed under MIT
 * License For Fonts: SIL OFL 1.1OFL
-* License URL: http://scripts.sil.org/
+* License URL: https://scripts.sil.org/
 * https://github.com/FortAwesome/Font-Awesome
 
 
 == jQuery One Page Nav Plugin ==
 
-* http://github.com/davist11/jQuery-One-Page-Nav
+* https://github.com/davist11/jQuery-One-Page-Nav
 * Dual licensed under the MIT and GPL licenses.
 * Uses the same license as jQuery, see: https://jquery.org/license
 
@@ -70,7 +70,7 @@ License URI : https://www.gnu.org/licenses/gpl-3.0.txt
 == TGM-Plugin-Activation == 
 
 Credit: Thomas Griffin, Gary Jones, Juliette Reinders Folmer
-http://tgmpluginactivation.com/
+https://tgmpluginactivation.com/
 License: GPL-2.0+
 
 

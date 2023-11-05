@@ -355,7 +355,7 @@ See Elementor Developer Edition versions changelog [here](https://go.elementor.c
 * New: Enhancements Elementor AI for Images - Seamlessly Remove and Replace Backgrounds
 * New: Introducing Apps Page - Discover a selection of tools, specifically tailored to enhance your Elementor-powered website
 * Tweak: Added a "Container" option to the 'Hover Area' dropdown in Lottie widget ([#20360](https://github.com/elementor/elementor/issues/20360))
-* Tweak: Updated several URLs from `http:` to `https` for enhanced compliance (props [@DAnn2012](https://github.com/DAnn2012))
+* Tweak: Updated several URLs from `https:` to `https` for enhanced compliance (props [@DAnn2012](https://github.com/DAnn2012))
 * Tweak: Added Image Size control to Gravatar image in Author Box widget
 * Tweak: Remove deprecated schemes area
 * Tweak: Accessibility Improvements feature merged to version
@@ -1901,7 +1901,7 @@ See Elementor Developer Edition versions changelog [here](https://go.elementor.c
 * Tweak: Updated `e-icons` library to v5.5.0
 * Tweak: Updated `e-gallery` library to v1.1.0
 * Tweak: Dropped Support for WP v4.9, now supporting WP v5.0+
-* Tweak: Dropped delete revision option in Revisions Panel since WordPress v5.3 ([Topic](http://core.trac.wordpress.org/ticket/43709))
+* Tweak: Dropped delete revision option in Revisions Panel since WordPress v5.3 ([Topic](https://core.trac.wordpress.org/ticket/43709))
 * Tweak: Added compatibility with WordPress v5.3
 * Fix: Use CSS Flex to align and order button icon ([#561](https://github.com/elementor/elementor/issues/561))
 * Fix: Remove Ninja Forms compatibility script which causes server issues ([#8267](https://github.com/elementor/elementor/issues/8267))

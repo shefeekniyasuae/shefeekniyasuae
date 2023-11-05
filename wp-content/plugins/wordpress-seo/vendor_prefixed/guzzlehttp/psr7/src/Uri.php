@@ -276,7 +276,7 @@ class Uri implements \YoastSEO_Vendor\Psr\Http\Message\UriInterface, \JsonSerial
     /**
      * Creates a URI from a hash of `parse_url` components.
      *
-     * @see http://php.net/manual/en/function.parse-url.php
+     * @see https://php.net/manual/en/function.parse-url.php
      *
      * @throws MalformedUriException If the components do not form a valid URI.
      */

@@ -17,7 +17,7 @@
 		/**
 		 * Content change event listener.
 		 *
-		 * @url http://stackoverflow.com/questions/3233991/jquery-watch-div/3234646#3234646
+		 * @url https://stackoverflow.com/questions/3233991/jquery-watch-div/3234646#3234646
 		 *
 		 * @param {function} callback
 		 *

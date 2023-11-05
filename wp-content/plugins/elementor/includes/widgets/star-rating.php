@@ -418,7 +418,7 @@ class Widget_Star_Rating extends Widget_Base {
 		$this->add_render_attribute( 'icon_wrapper', [
 			'class' => 'elementor-star-rating',
 			'title' => $textual_rating,
-			'itemtype' => 'http://schema.org/Rating',
+			'itemtype' => 'https://schema.org/Rating',
 			'itemscope' => '',
 			'itemprop' => 'reviewRating',
 		] );
@@ -484,7 +484,7 @@ class Widget_Star_Rating extends Widget_Base {
 			}
 
 			view.addRenderAttribute( 'iconWrapper', 'class', 'elementor-star-rating' );
-			view.addRenderAttribute( 'iconWrapper', 'itemtype', 'http://schema.org/Rating' );
+			view.addRenderAttribute( 'iconWrapper', 'itemtype', 'https://schema.org/Rating' );
 			view.addRenderAttribute( 'iconWrapper', 'title', textualRating );
 			view.addRenderAttribute( 'iconWrapper', 'itemscope', '' );
 			view.addRenderAttribute( 'iconWrapper', 'itemprop', 'reviewRating' );

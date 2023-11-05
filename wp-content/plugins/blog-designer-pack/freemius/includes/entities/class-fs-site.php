@@ -147,7 +147,7 @@
             }
 
             if ( ! fs_starts_with( $url, 'http' ) ) {
-                $url = 'http://' . $url;
+                $url = 'https://' . $url;
             }
 
             $url_parts = parse_url( $url );

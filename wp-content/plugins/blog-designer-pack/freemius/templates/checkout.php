@@ -185,7 +185,7 @@
 	<div id="fs_checkout" class="wrap fs-section fs-full-size-wrapper">
 		<div id="fs_frame"></div>
 		<script type="text/javascript">
-			// http://stackoverflow.com/questions/4583703/jquery-post-request-not-ajax
+			// https://stackoverflow.com/questions/4583703/jquery-post-request-not-ajax
 			jQuery(function ($) {
 				$.extend({
 					form: function (url, data, method) {
