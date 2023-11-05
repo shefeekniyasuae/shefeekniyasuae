@@ -44,7 +44,7 @@
 		/**
 		 * Redirects to another page, with a workaround for the IIS Set-Cookie bug.
 		 *
-		 * @link  http://support.microsoft.com/kb/q176113/
+		 * @link  https://support.microsoft.com/kb/q176113/
 		 * @since 1.5.1
 		 * @uses  apply_filters() Calls 'wp_redirect' hook on $location and $status.
 		 *

@@ -240,11 +240,11 @@ There are [two ways](https://freemius.com/help/documentation/wordpress-sdk/softw
 <?php
 	/**
 	 * Plugin Name: My Very Awesome Plugin
-	 * Plugin URI:  http://my-awesome-plugin.com
+	 * Plugin URI:  https://my-awesome-plugin.com
 	 * Description: Create and manage Awesomeness right in WordPress.
 	 * Version:     1.0.0
 	 * Author:      Awesomattic
-	 * Author URI:  http://my-awesome-plugin.com/me/
+	 * Author URI:  https://my-awesome-plugin.com/me/
 	 * License:     GPLv2
 	 * Text Domain: myplugin
 	 * Domain Path: /langs

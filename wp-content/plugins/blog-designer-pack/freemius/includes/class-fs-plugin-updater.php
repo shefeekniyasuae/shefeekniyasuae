@@ -444,7 +444,7 @@
          * During development mode we want to be able updating plugin versions via our localhost repository. This
          * filter white-list all domains including "api.freemius".
          *
-         * @link   http://www.emanueletessore.com/wordpress-download-failed-valid-url-provided/
+         * @link   https://www.emanueletessore.com/wordpress-download-failed-valid-url-provided/
          *
          * @author Vova Feldman (@svovaf)
          * @since  1.0.4
@@ -842,7 +842,7 @@
          * @return bool|mixed
          */
         static function _fetch_plugin_info_from_repository( $action, $args ) {
-            $url = $http_url = 'http://api.wordpress.org/plugins/info/1.2/';
+            $url = $http_url = 'https://api.wordpress.org/plugins/info/1.2/';
             $url = add_query_arg(
                 array(
                     'action'  => $action,
@@ -920,7 +920,7 @@
                 'user-agent' => ( 'WordPress/' . $wp_version . '; ' . home_url( '/' ) )
             );
 
-            $url = "http://api.wordpress.org/{$module_type}/update-check/1.1/";
+            $url = "https://api.wordpress.org/{$module_type}/update-check/1.1/";
             if ( $ssl = wp_http_supports( array( 'ssl' ) ) ) {
                 $url = set_url_scheme( $url, 'https' );
             }
@@ -1269,7 +1269,7 @@ if ( !isset($info->error) ) {
          *
          * This logic was inspired by the TGMPA GPL licensed library by Thomas Griffin.
          *
-         * @link   http://tgmpluginactivation.com/
+         * @link   https://tgmpluginactivation.com/
          *
          * @author Vova Feldman
          * @since  1.2.1.7

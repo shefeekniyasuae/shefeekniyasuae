@@ -4560,7 +4560,7 @@
                         ),
                         'server_addr' => array(
                             'SERVER_ADDR',
-                            '<a href="http://www.projecthoneypot.org/ip_' . $server_ip . '">' . $server_ip . '</a>'
+                            '<a href="https://www.projecthoneypot.org/ip_' . $server_ip . '">' . $server_ip . '</a>'
                         )
                     )
                 ),
@@ -15158,7 +15158,7 @@
          *
          * @return bool Is running in AJAX call.
          *
-         * @link   http://wordpress.stackexchange.com/questions/70676/how-to-check-if-i-am-in-admin-ajax
+         * @link   https://wordpress.stackexchange.com/questions/70676/how-to-check-if-i-am-in-admin-ajax
          */
         static function is_ajax() {
             return ( defined( 'DOING_AJAX' ) && DOING_AJAX );
@@ -22290,7 +22290,7 @@
                 $this->_get_latest_version_endpoint( $plugin_id, 'zip' )
             );
 
-            return str_replace( 'http:', 'https:', $download_api_url );
+            return str_replace( 'https:', 'https:', $download_api_url );
         }
 
         /**
@@ -24840,7 +24840,7 @@
                     FS_Api::is_ssl_error_response( $response )
                 ) {
                     // Failed due to old version of cURL or Open SSL (SSLv3 is not supported by CloudFlare).
-                    $url = 'http://' . substr( $url, 8 );
+                    $url = 'https://' . substr( $url, 8 );
 
                     $request['timeout'] = 15;
                     $response           = FS_Api::remote_request( $url, $request );
@@ -25651,7 +25651,7 @@
 
                             if ( ! empty( $icon ) ) {
                                 if ( 0 !== strpos( $icon, 'http' ) ) {
-                                    $icon = 'http:' . $icon;
+                                    $icon = 'https:' . $icon;
                                 }
 
                                 /**

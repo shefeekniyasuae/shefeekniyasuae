@@ -6,7 +6,7 @@ Tested up to: 6.3.2
 Requires PHP: 5.4
 Stable tag: 3.4.2
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Create News, Magazine and Blogs with post grid, post slider, post carousel, post list, post masonry, recent posts, popular posts, custom post grid, post ticker, post grid box, post timeline, featured posts, etc.
 

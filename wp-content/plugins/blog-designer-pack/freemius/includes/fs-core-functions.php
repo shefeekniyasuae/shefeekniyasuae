@@ -71,11 +71,11 @@
          * Examples:
          * 1. "themes" folder
          *    Path: C:/xampp/htdocs/fswp/wp-content/themes/twentytwelve/freemius/assets/css/admin/common.css
-         *    URL: http://fswp:8080/wp-content/themes/twentytwelve/freemius/assets/css/admin/common.css
+         *    URL: https://fswp:8080/wp-content/themes/twentytwelve/freemius/assets/css/admin/common.css
          *
          * 2. "plugins" folder
          *    Path: C:/xampp/htdocs/fswp/wp-content/plugins/rating-widget-premium/freemius/assets/css/admin/common.css
-         *    URL: http://fswp:8080/wp-content/plugins/rating-widget-premium/freemius/assets/css/admin/common.css
+         *    URL: https://fswp:8080/wp-content/plugins/rating-widget-premium/freemius/assets/css/admin/common.css
          *
          * @author Leo Fajardo (@leorw)
          * @since  1.2.2
